@@ -1,0 +1,3768 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The book of Job in meeter as to several of those excellent things contain'd therein, the better to familiarize them, and to bring them the more into use, for peoples benefit, to be sung after the ordinary, and usual tunes. By R. P. Minister of the Gospel, and an admirer of the infinite perfections and excellencies of God.</title>
+            <title>Bible. English. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 102 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27997</idno>
+            <idno type="STC">Wing B2640A</idno>
+            <idno type="STC">ESTC R215884</idno>
+            <idno type="EEBO-CITATION">99827642</idno>
+            <idno type="PROQUEST">99827642</idno>
+            <idno type="VID">32065</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32065)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1923:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The book of Job in meeter as to several of those excellent things contain'd therein, the better to familiarize them, and to bring them the more into use, for peoples benefit, to be sung after the ordinary, and usual tunes. By R. P. Minister of the Gospel, and an admirer of the infinite perfections and excellencies of God.</title>
+                  <title>Bible. English. Selections.</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[12], 71, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and sold by Tho. Parkhurst at the Bible and Three Crowns in Cheapside near Mercers Chapel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text includes selections from other books of the Old and New Testaments.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32065:1"/>
+            <p>
+               <pb facs="tcp:32065:1"/>
+THE BOOK OF JOB IN MEETER, AS To ſeveral of thoſe excellent Things contain'd therein, the better to familiarize them, and to bring them the more into Uſe, for Peoples Benefit, to be Sung after the Ordinary, and Uſual Tunes.</p>
+            <p>
+               <hi>Cantus Melodia instituitur, ad ſpiritualem quan<g ref="char:EOLhyphen"/>dum delectationem, quia animus detinetur in Meditatione.</hi> Rei Cantatae, Ames.</p>
+            <p>
+               <hi>All thy Works ſhall Praiſe Thee O Lord, and thy Saints ſhall Bleſs Thee,</hi> Pſalm 145. 10.</p>
+            <p>By <hi>R. P.</hi> Miniſter of the Goſpel, and an Ad<g ref="char:EOLhyphen"/>mirer of the Infinite Perfections and Excel<g ref="char:EOLhyphen"/>lencies of God.</p>
+            <p>
+               <hi>London:</hi> Printed for the Author, and Sold by <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers</hi> Chapel, 1700.</p>
+            <pb facs="tcp:32065:2"/>
+            <pb facs="tcp:32065:2" rendition="simple:additions"/>
+            <pb facs="tcp:32065:3" rendition="simple:additions"/>
+            <pb facs="tcp:32065:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32065:4" rendition="simple:additions"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:32065:4" rendition="simple:additions"/>
+            <head>THE PREFACE</head>
+            <p>
+               <hi>THIS Book is intitled the Book of</hi> Job, <hi>it being indeed an Hi<g ref="char:EOLhyphen"/>ſtory of</hi> Job, <hi>as of his Inte<g ref="char:EOLhyphen"/>grity, and his Sore and Heavy Trials, and exemplary Patience; ſo of the bleſſed End which the Lord at length made, his Sore Tryals ending in glorious Triumphs, and his Sorrows, in great Rejoicings.</hi>
+            </p>
+            <p>
+               <hi>It is indeed a moſt excellent Book, full of various and moſt excellent Matter, which we ſhould be well acquainted with, and much vers'd in.</hi>
+            </p>
+            <p n="1">1. <hi>We have in it many High and Lofty Diſcoveries of God, and of his glorious Attributes, and Perfections, as of his Wiſdom, Power, Glory, Majeſty, Greatneſs, Goodneſs, Righteouſneſs, and Incomprehenſibleneſs,</hi> &amp;c.</p>
+            <p n="2">
+               <pb facs="tcp:32065:5"/>
+2. <hi>We have a Deſcription of his won<g ref="char:EOLhyphen"/>derful Works, and wonderful and graci<g ref="char:EOLhyphen"/>ous Providence, providing for all ſorts of Creatures,</hi> &amp;c.</p>
+            <p n="3">3. <hi>Here we have much held forth, not only of the Creator, but alſo of the Crea<g ref="char:EOLhyphen"/>tures, which Manifeſt, and Declare the Glory of the Creator.</hi>
+            </p>
+            <p n="4">4. <hi>We have here an Example of the greateſt Piety, moſt invincible Patience, and ſweet Submiſſiveneſs; under the ſharp<g ref="char:EOLhyphen"/>eſt Diſpenſations.</hi>
+            </p>
+            <p n="5">5. <hi>We have here held forth the Happy End, that God makes in afflicting his People, and that he is very pitiful, and of tender Mercy,</hi> James 5. 11.</p>
+            <p n="6">6. <hi>We are here inſtructed, as to ſe<g ref="char:EOLhyphen"/>veral Things very obſervable, and of great Importance. As,</hi>
+            </p>
+            <p n="1">1. <hi>That Perſons may be very Great, and yet Gracious, and Good, very Rich and yet Righteous, very Wealthy and yet Vertuous, as we ſee here in</hi> Job. <hi>And this is a Bleſſed Conjunction indeed, but very Rare, Riches expoſing ſo much to Vice, and the Snares, and Temptati<g ref="char:EOLhyphen"/>ons of ſuch, being ſo many and great;
+<pb facs="tcp:32065:5"/>
+hence ſays our Saviour to his Diſciples (and he puts a Verily to it)</hi> A Rich Man ſhall hardly enter into the King<g ref="char:EOLhyphen"/>dom of Heaven. <hi>All hardly, but they hardlier than others, if Truth it ſelf may be believed:</hi> But though with Men it is impoſſible, but not with God, with whom all things are poſſi<g ref="char:EOLhyphen"/>ble: <hi>He can withdraw the Heart, from the inordinate Love of them, and from truſting in them, but how hard is this, and hence (which is very obſervable) when Jeſus Chriſt had explained himſelf,</hi> Mark 10. 24. Children how hard is it for them that truſt in Riches to enter into the Kingdom of God, <hi>yet then it is ſaid,</hi> they were aſtoniſhed out of meaſure, <hi>&amp;c. Becauſe it is ſo hard to have Riches, and not to truſt, in them; hence</hi> Paul <hi>beſpeaks</hi> Timothy, To charge them that are Rich in this World, not to truſt in them, <hi>&amp;c. 1. Tim. 6. 17, 18, 19. and therefore for ſuch to be Good, as</hi> Job <hi>here was, it is to be good indeed, and to be one of a Thouſand. Read</hi> 1 Tim. 6. 9, 10.</p>
+            <p n="2">
+               <pb facs="tcp:32065:6"/>
+2. <hi>We are taught here, that Perſons of the greateſt Integrity, may be exercis'd with the greateſt Calamities, whilſt the Wicked Proſper in the World, are Secure, and increaſe in Riches.</hi>
+            </p>
+            <p n="3">3. <hi>That the higheſt, and beſt founded Eſtate here, as to outward Things is mu<g ref="char:EOLhyphen"/>table.</hi>
+            </p>
+            <p n="4">4. <hi>That Afflictions are not by Chance, but are ordered by Divine Providence.</hi>
+            </p>
+            <p n="5">5. <hi>What undaunted Courage, and ſtrong Conſolation, Integrity gives in Times of Trial.</hi>
+            </p>
+            <p n="6">6. <hi>We have here in a Word, a mix<g ref="char:EOLhyphen"/>ture and variety of all Learning and Re<g ref="char:EOLhyphen"/>ligion, of all Philoſophy and Divinity, ſo that this Book may well be ſtil'd as one Calls it,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Book that contains all Excellencies in it.</hi>
+            </p>
+            <p>
+               <hi>And now the greateſt Part of this Book being in the Original, in Verſe, yea, all but the two firſt Chapters, and Part of the Laſt; and it being a Book of ſo great Excellency, and containing in it, ſo ma<g ref="char:EOLhyphen"/>ny great and excellent things, I have ſpent ſome time, and no ſmall Pains to turn many of them into Verſe, and have
+<pb facs="tcp:32065:6"/>
+reduc'd them to certain Heads, that they might be the better known, and the better made uſe of; I do not pretend to Poetry, neither do I much Paraphraſe upon the Words, but for the moſt Part keep cloſe to them as they are tranſlated, which I judge meeteſt in turning Divine Things into Meeter. And now as I looked upon this, as that which might be very advan<g ref="char:EOLhyphen"/>tagious, and ſerviceable to my Self, ſo if through the Bleſſing of God, it ſhall but any ways prove ſo to others, which is that I deſign therein, I ſhall think my Time and Pains well beſtowed, however let an attempt thereto, be accepted.</hi>
+            </p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:32065:7"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>
+                  <hi>AS concerning God's Excellencies and Perfections,</hi> viz. <hi>His wonderful Power, Wiſdom, Greatneſs, Majeſty, Immenſities and other Excellencies and Perfections in himſelf; as alſo ſeveral Ways manifeſted and diſplayed in and by the Creature, and in and by his great and glorious Works,</hi> Page 1, 2, 3, (4, 5, 6, 7.</item>
+               <item>
+                  <hi>God's Anſwer to</hi> Job <hi>out of the Whirl<g ref="char:EOLhyphen"/>wind,</hi> p. 8, 9, 10, 11, 12, 13, 14.</item>
+               <item>
+                  <hi>Concerning</hi> Behemoth, p. 15.</item>
+               <item>
+                  <hi>Concerning</hi> Leviathan, p. 16, 17.</item>
+               <item>
+                  <hi>God Inviſible and Omniſcient,</hi> p. 18.</item>
+               <item>
+                  <hi>God Juſt and Righteous,</hi> p. 19, 20.</item>
+               <item>
+                  <hi>God Incomprehenſible,</hi> p. 21.</item>
+               <item>
+                  <hi>God's great Condeſcention in magnifying Man,</hi> p. 22.</item>
+               <item>
+                  <hi>Wiſdom is of God,</hi> Ibid.</item>
+               <item>
+                  <pb facs="tcp:32065:7"/>
+                  <hi>Affliction from God,</hi> p. 23.</item>
+               <item>
+                  <hi>God's Way with the Righteous,</hi> p. 24.</item>
+               <item>
+                  <hi>No Contending with God,</hi> p. 25.</item>
+               <item>
+                  <hi>Concerning Man's ſinfulneſs, vilenſs, un<g ref="char:EOLhyphen"/>worthineſs and worthleſneſs,</hi> p. 26, 27, 28.</item>
+               <item>
+                  <hi>Man's Frailty and Mortality, the Brevi<g ref="char:EOLhyphen"/>ty of his Life, and Impoſſibility of his Return hither again,</hi> p. 29, 30, 31, 32.</item>
+               <item>
+                  <hi>What is Man's Wiſdom,</hi> p. 33.</item>
+               <item>
+                  <hi>The Godlies Submiſſiveneſs under the affli<g ref="char:EOLhyphen"/>cting Hand of God,</hi> p. 34, 35.</item>
+               <item>
+                  <hi>The Godlies Hope and Happineſs,</hi> p. 35, 36.</item>
+               <item>
+                  <hi>The Godly not ſecure,</hi> p. 37.</item>
+               <item>
+                  <hi>The Integrity of the Godly,</hi> p. 38, 39.</item>
+               <item>
+                  <hi>Concerning the Hypocrite,</hi> p. 40.</item>
+               <item>
+                  <hi>The Benefits of acquainting our ſelves with God, and when he gives Peace,</hi> p. 41.</item>
+               <item>
+                  <hi>Reſt in the Grave,</hi> p. 43.</item>
+               <item>
+                  <hi>The Miſery of the Wicked,</hi> p. 44, 45, 46, 44.</item>
+               <item>
+                  <hi>The Benefit of Repentance upon God's cha<g ref="char:EOLhyphen"/>ſtening of Man,</hi> p. 49, 50.</item>
+               <item>
+                  <hi>The Proſperity of the Wicked, together with the Brevity and <g ref="char:V">Ʋ</g>ncertainty there<g ref="char:EOLhyphen"/>of,</hi> p. 51, 52.</item>
+            </list>
+            <list>
+               <pb facs="tcp:32065:8"/>
+               <head>Hymns taken out of <hi>Solomons Song.</hi>
+               </head>
+               <item>
+                  <hi>The Spouſes Deſcription of her Beloved,</hi> p. 53, 54.</item>
+               <item>
+                  <hi>The Spouſes ſweet Reſolve,</hi> p. 55.</item>
+               <item>
+                  <hi>Requeſts of the Spouſe to her Beloved,</hi> p. 56.</item>
+            </list>
+            <list>
+               <head>Out of the Fortieth of <hi>Iſaiah.</hi>
+               </head>
+               <item>
+                  <hi>God's exceeding and incomprehenſible Greatneſs and Majeſty,</hi> p 57, 58.</item>
+               <item>
+                  <hi>The Myſtery of Godlineſs for Sacramental<g ref="char:punc">▪</g> Occaſions,</hi> p. 59.</item>
+               <item>
+                  <hi>An Hymn after Sacrament,</hi> p. 60.</item>
+               <item>
+                  <hi>Sacramental Hymns,</hi> p. 61, 62.</item>
+               <item>
+                  <hi>An Hymn for the Spirit and Grace,</hi> p. 63, 64.</item>
+            </list>
+            <list>
+               <head>From Nahum, Chap. 1. v. 1, 2, &amp;c.</head>
+               <item>
+                  <hi>God's Majeſty and Severity againſt his Enemies,</hi> p. 65.</item>
+               <item>
+                  <hi>Our great unworthineſs,</hi> p. 66.</item>
+               <item>
+                  <hi>God's wonderful Reſpect to the Contrite and Humble,</hi> p. 67.</item>
+               <item>
+                  <hi>An Hymn upon the failing of Creature Comforts,</hi> p. 67, 68.</item>
+               <item>
+                  <hi>Petitions for obſerving God's Precepts,</hi> p. 69, 70.</item>
+               <item>
+                  <hi>The Concluſion,</hi> p. 71.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="subject">
+            <pb facs="tcp:32065:8"/>
+            <head>As concerning GOD.</head>
+            <p>
+               <hi>His Excellencies and Perfections,</hi> viz. <hi>His wonderful Wiſdom, Power, Great<g ref="char:EOLhyphen"/>neſs, Majeſty, Immenſity, and other Excellencies and Perfections both in himſelf; as alſo ſeveral Ways mani<g ref="char:EOLhyphen"/>feſted and diſplayed in and by the Crea<g ref="char:EOLhyphen"/>ture, and in and by his great and glo<g ref="char:EOLhyphen"/>rious Works.</hi>
+            </p>
+            <div type="section">
+               <head>Job V. <hi>from verſe 9. to the</hi> 17.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>GReat Things <hi>Jehovah</hi> doth, and Things</l>
+                  <l>Unſearchable that be,</l>
+                  <l>Things that are marvellous, and thoſe</l>
+                  <l>Without number do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h He.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>He giveth Rain upon the Earth,</l>
+                  <l>A great though common thing:</l>
+                  <l>And Waters ſendeth on the Fields.</l>
+                  <l>Which make them flouriſhing.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>To ſet up thoſe on high, that be</l>
+                  <l>Through want, brought very low:</l>
+                  <l>Thereby, that Safety thoſe that mourn,</l>
+                  <l>may be exalted to.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="2" facs="tcp:32065:9"/>
+                  <head>4.</head>
+                  <l>He diſappointeth that which thoſe</l>
+                  <l>That Crafty are, deviſe:</l>
+                  <l>So that their Hands, cannot per form,</l>
+                  <l>The Thing they enterprize.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>In their own Craftineſs, he doth</l>
+                  <l>Even take thoſe that are wiſe:</l>
+                  <l>And th' frowards Counſel, headlong that,</l>
+                  <l>Is carried likewiſe.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>They do with darkneſs meet even in</l>
+                  <l>The Day-time, whilſt it's Light:</l>
+                  <l>And in the Noon-day they do grope;</l>
+                  <l>As if it was i'th' Night.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>But he the Poor, ſaves from the Sword,</l>
+                  <l>From th' Mouth, of the Crafty:</l>
+                  <l>Yea he alſo doth ſave them from,</l>
+                  <l>The hand of the Mighty.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>And ſo the Poor great cauſe hath he,</l>
+                  <l>To hope, in Gods Mercy:</l>
+                  <l>And wicked Men confounded are,</l>
+                  <l>And their Mouths ſtopt thereby, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 9. from <hi>ver.</hi> the <hi>4th.</hi> to the <hi>16th.</hi>
+               </head>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>IN Heart God he is Wiſe, yea and</l>
+                  <l>Mighty in Strength is He:</l>
+                  <l>Againſt him who hath hardened</l>
+                  <l>Himſelf, and proſpered.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>The Mountains who removeth, and</l>
+                  <l>Of it they a'n't aware:</l>
+                  <l>And by him in his Anger they,</l>
+                  <l>Soon overturned are.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="3" facs="tcp:32065:9"/>
+                  <head>11.</head>
+                  <l>He ſhakes the Earth out of her Place,</l>
+                  <l>Made quake her Pillars are:</l>
+                  <l>The Sun commands, and it don't riſe,</l>
+                  <l>And ſealeth up the Stars.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>He doth alone ſpread out the Heavens,</l>
+                  <l>Treads on the Waves o'th' Sea:</l>
+                  <l>He all the Motions of the Stars,</l>
+                  <l>Doth order as he pleaſe.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>He doth great Things paſt finding out,</l>
+                  <l>Yea wonders great, doth he</l>
+                  <l>So nomerous that in no wiſe</l>
+                  <l>They numbered can be.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Behold he takes away, who him</l>
+                  <l>Can hinder, who will ſay</l>
+                  <l>To him what doſt thou, as to what</l>
+                  <l>He's pleas'd to take away?</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>If God his Anger won't withdraw,</l>
+                  <l>Stoop the proud Helpers do:</l>
+                  <l>How much leſs ſhall I Anſwer him?</l>
+                  <l>And Words chooſe to do ſo.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Whom though that I was Righteous,</l>
+                  <l>Him Anſwer would not I:</l>
+                  <l>But Supplication would make,</l>
+                  <l>Unto my Judge humbly.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Shall any Teach God Knowledge, how</l>
+                  <l>The World ſhould govern'd be:</l>
+                  <l>Seeing the higheſt equally,</l>
+                  <l>And loweſt judgeth He.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="4" facs="tcp:32065:10"/>
+               <head>
+                  <hi>Job</hi> 12. from <hi>verſe 13th.</hi> to the end.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>WIth God is perfect Wiſdom, and</l>
+                  <l>With him is Strength alſo:</l>
+                  <l>Counſel, and Underſtanding both,</l>
+                  <l>Things for to guide, and kno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Behold he breaketh down, and it</l>
+                  <l>Cannot be built again:</l>
+                  <l>He ſhuts up Man, and all Attempts,</l>
+                  <l>To open are in vain.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Behold the Waters, he with-holds</l>
+                  <l>And all then up do dry:</l>
+                  <l>He alſo ſends them out, and then</l>
+                  <l>The Earth's o'erturn'd thereby.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>He Counſellers away leads ſpoil'd,</l>
+                  <l>And Judges, Fools makes He:</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The Bond of Kings doth looſe, their Loines</l>
+                  <l>With Girdle girdeth He.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>He leadeth Princes ſpoil'd away,</l>
+                  <l>O'erthrows, who mighty be:</l>
+                  <l>The Speech o'th' Truſty takes away,</l>
+                  <l>And th' Ageds Judgment He.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>He pours contempt on Princes, and</l>
+                  <l>Weakens Mens Strength of might:</l>
+                  <l>Diſcovers deep things out o'th' dark,</l>
+                  <l>Deaths ſhade brings out to Light.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>He doth increaſe the Nations,</l>
+                  <l>And them deſtroyeth He:</l>
+                  <l>He them inlargeth, and by him,</l>
+                  <l>Again they ſtrait'ned be.</l>
+               </lg>
+               <lg n="9">
+                  <pb n="5" facs="tcp:32065:10"/>
+                  <head>9.</head>
+                  <l>O'th' chief o'th' People of the Earth,</l>
+                  <l>The Heart he takes away:</l>
+                  <l>And makes them in a Wilderneſs,</l>
+                  <l>To wander, where's no way.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>They without Light grope in the dark,</l>
+                  <l>And he makes them alſo:</l>
+                  <l>Much like unto a drunken Man,</l>
+                  <l>Even for to ſtagger ſo.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job 25. throughout, to the Tune of the 25th.</hi> Pſalm.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>DOminion and Fear,</l>
+                  <l>Great God they are with Thee:</l>
+                  <l>In thy high Places alſo thou,</l>
+                  <l>There Peace doſt make to be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Is any able for,</l>
+                  <l>To number thy Armies:</l>
+                  <l>And who, or where are they on whom?</l>
+                  <l>Thy Light doth not ariſe.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>How then be juſtified,</l>
+                  <l>With God can ſorry Man?</l>
+                  <l>Or how can he be counted clean,</l>
+                  <l>That's born of a Woman.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Behold even to the Moon,</l>
+                  <l>And its ſhines not, though bright:</l>
+                  <l>Yea not the Stars ſo gliſtering,</l>
+                  <l>And pure in his ſight.</l>
+                  <l>How much leſs pure then,</l>
+                  <l>Can Man a poor Worm be:</l>
+                  <l>Nor leſs the Son of Man who is,</l>
+                  <l>A Worm no leſs then He.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="6" facs="tcp:32065:11"/>
+               <head>
+                  <hi>Job</hi> 26. from <hi>verſe 6. to the end.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BEfore him Hell is Naked, and</l>
+                  <l>Death hath no covering:</l>
+                  <l>O're th' empty Place he ſpreads forth Heaven,</l>
+                  <l>The Earth hangs on nothing.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>In his thick Clouds, though Aiery,</l>
+                  <l>The Waters binds up He:</l>
+                  <l>And though ſo ponderous, the Clouds</l>
+                  <l>Not under them Rent be.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>He from our view holds back the Face</l>
+                  <l>So glorious, of his Throne:</l>
+                  <l>And leaſt it ſhould dazle our Eyes,</l>
+                  <l>His Cloud ſpreadeth thereon.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>The Waters of the Ocean,</l>
+                  <l>So boiſterous, hath he:</l>
+                  <l>Compaſs'd with bounds, and that till Day,</l>
+                  <l>And Night, no more ſhall be.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Heavens Pillars tremble, and at his</l>
+                  <l>Reproof aſtoniſh'd be:</l>
+                  <l>The Sea his Power cleaves thro', th' Proud,</l>
+                  <l>By Wiſdom ſmiteth He.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>He by his Spirit hath the Heavens,</l>
+                  <l>Garniſhed as we ſee:</l>
+                  <l>The Crooked Serpent by his Hand,</l>
+                  <l>Formed alſo hath He.</l>
+                  <l>Lo of his Ways theſe parts are, but</l>
+                  <l>How ſmall a Portion:</l>
+                  <l>Is heard of Him, but of his Power,</l>
+                  <l>The Thunder knoweth none.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="7" facs="tcp:32065:11"/>
+               <head>
+                  <hi>Job</hi> 36: from <hi>verſe 22. to the end.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BEhold God by his Power exalts,</l>
+                  <l>Who teacheth ſo as He?</l>
+                  <l>Who hath injoyned him his Way,</l>
+                  <l>That he's unjuſt, can ſay?</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>That we do magnifie the work</l>
+                  <l>Of God, remember we:</l>
+                  <l>Which Men behold, which a far off</l>
+                  <l>Even every Man may ſee.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Behold God he is great, and we</l>
+                  <l>Him do not know, nor can,</l>
+                  <l>The number of his Days ſo great,</l>
+                  <l>Be ſearched out by Man.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>For by his Power he doth make,</l>
+                  <l>The drops of Water ſmall:</l>
+                  <l>According to th' Vapours thereof,</l>
+                  <l>They pour down Rain withal.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Which Clouds do drop, and do diſti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>On Man abundantly:</l>
+                  <l>Alſo the ſpreadings of the Clouds,</l>
+                  <l>Them underſtand can't we.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Or of his Tabernacle who,</l>
+                  <l>The noiſe can underſtand:</l>
+                  <l>The Thunder in the Clouds produc'd,</l>
+                  <l>By his Almighty Hand.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Behold he ſpreads the Light upon,</l>
+                  <l>The Clouds, tho' dark they be:</l>
+                  <l>That they ſeem all a flame and dark,</l>
+                  <l>Again them maketh He.</l>
+               </lg>
+               <lg n="8">
+                  <pb n="8" facs="tcp:32065:12"/>
+                  <head>8.</head>
+                  <l>And He by theſe doth execute,</l>
+                  <l>His Judgments on the bad:</l>
+                  <l>But by them, to ſuch as are good,</l>
+                  <l>Abundant Food is had.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>With Clouds he covereth the Light,</l>
+                  <l>Commands it not to ſhine:</l>
+                  <l>And that by interpoſing of,</l>
+                  <l>The Cloud that comes between.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>The Thunder that's within the Clouds,</l>
+                  <l>Gives notice of the Rain:</l>
+                  <l>The Cattel alſo various ways,</l>
+                  <l>Give notice of the ſame.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>
+               <hi>Gods Anſwer to</hi> Job <hi>out of the Whirl<g ref="char:EOLhyphen"/>wind, as to the greateſt Part thereof,</hi> Ch. 38. <hi>verſe 2. to the 12th. verſe 25. to</hi> 36, 37, 38, 41. Ch. 39. <hi>verſe 13, 19, to the end.</hi>
+            </head>
+            <div type="section">
+               <head>
+                  <hi>To the Tune of the Hundred</hi> Pſalm.</head>
+               <div n="1" type="part">
+                  <head>I. <hi>Part.</hi>
+                  </head>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>WHO is this that my Counſel dares,</l>
+                     <l>To darken, and miſrepreſent?</l>
+                     <l>And that by Reaſonings ſo weak,</l>
+                     <l>And without Knowledge, Words doth vent.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Come then, if thou wilt Cope with me,</l>
+                     <l>Gird up thy Loyns, and let me ſee:</l>
+                     <l>Thy Man-hood, for I will of Thee,</l>
+                     <l>Demand, and do thou anſwer me.</l>
+                  </lg>
+                  <lg n="3">
+                     <pb n="9" facs="tcp:32065:12"/>
+                     <head>3.</head>
+                     <l>When the Foundations of the Earth,</l>
+                     <l>I laid, and it's Proportions?</l>
+                     <l>Where waſt thou then, had I thy help?</l>
+                     <l>No then beſides me, there was none.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Who hath thereof the meaſure laid,</l>
+                     <l>Who hath the Line ſtretch'd it upon:</l>
+                     <l>Whereon are the Foundations fix'd?</l>
+                     <l>Or who did lay the Corner-ſtone?</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>When th' Angels, which the Morning Stars</l>
+                     <l>Are call'd, for Luſtre and Glory:</l>
+                     <l>Did ſing together, and thoſe Sons</l>
+                     <l>Of God for Joy did ſhout on high.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>Or who ſhut up the Sea with Doors?</l>
+                     <l>When that its force, ſtay could no hand:</l>
+                     <l>When I its Garment made the Cloud,</l>
+                     <l>And darkneſs thick its ſwadling band.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>And for it did break up the place,</l>
+                     <l>Which I decreed had for it:</l>
+                     <l>And did reſtraint unto it give,</l>
+                     <l>And Bars and Doors did ſet to it.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>And my Commands I on it laid,</l>
+                     <l>Not to exceed it's boundary:</l>
+                     <l>So far, but further ſhan't thou come,</l>
+                     <l>And here thy proud Waves ſtay'd ſhall be.</l>
+                  </lg>
+               </div>
+               <div n="2" type="part">
+                  <head>II. <hi>Part.</hi>
+                  </head>
+                  <lg n="9">
+                     <head>9.</head>
+                     <l>Who for the Waters when they flow,</l>
+                     <l>Divided hath a Water-courſe?</l>
+                     <l>Or who a way for th' Lightning of</l>
+                     <l>The Thunder, which is of ſuch force.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>10.</head>
+                     <l>To cauſe it to Rain on the Earth,</l>
+                     <l>Even there, where no Man doth reſide:</l>
+                     <l>Alſo upon the Wilderneſs,</l>
+                     <l>Wherein there doth no Man abide.</l>
+                  </lg>
+                  <lg n="11">
+                     <pb n="10" facs="tcp:32065:13"/>
+                     <head>11.</head>
+                     <l>The waſt ground, and the Deſolate,</l>
+                     <l>Thereby it for to ſatisfie:</l>
+                     <l>To cauſe the Bud o'th' tender Herb,</l>
+                     <l>For to Spring forth ſo pleaſantly.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>12.</head>
+                     <l>A Father hath the Rain, or who</l>
+                     <l>Begotten hath the drops of Dew?</l>
+                     <l>Whence came the Ice, who gendred hath</l>
+                     <l>Heavens Froſt, which hoary is to View.</l>
+                  </lg>
+                  <lg n="13">
+                     <head>13.</head>
+                     <l>The Waters they are ſtraitned,</l>
+                     <l>And hid they are as with a Stone:</l>
+                     <l>The Face o'th' Deep ſo frozen is,</l>
+                     <l>That Men they may ev'n walk thereon.</l>
+                  </lg>
+                  <lg n="14">
+                     <head>14.</head>
+                     <l>Canſt thou the Seaſons of the Year,</l>
+                     <l>Alter, or canſt keep back the Spring?</l>
+                     <l>Canſt thou their Influences ſtay,</l>
+                     <l>Or them forth, as thou pleaſeſt bring.</l>
+                  </lg>
+                  <lg n="15">
+                     <head>15.</head>
+                     <l>No in Mans Power they are not,</l>
+                     <l>Them for to hinder, or to ſtay:</l>
+                     <l>Them for to guide, to bind, or looſe,</l>
+                     <l>Who ſhall but God alone aſſay.</l>
+                  </lg>
+                  <lg n="16">
+                     <head>16.</head>
+                     <l>Doſt thou Heavens Ordinances know?</l>
+                     <l>No they are ſecrets unto Man:</l>
+                     <l>And their Dominion on the Earth,</l>
+                     <l>None but my ſelf determine can.</l>
+                  </lg>
+               </div>
+               <div n="3" type="part">
+                  <head>III. <hi>Part.</hi>
+                  </head>
+                  <lg n="17">
+                     <head>17.</head>
+                     <l>Canſt thou thy Voice lift up to th' Clouds</l>
+                     <l>To cauſe much Water for to flow?</l>
+                     <l>Canſt thou the Lightnings ſend that they,</l>
+                     <l>May go and ſay here we are lo.</l>
+                  </lg>
+                  <lg n="18">
+                     <head>18.</head>
+                     <l>Who th' Clouds in Wiſdom number can?</l>
+                     <l>Or can the Bottles of Heaven ſtay:</l>
+                     <l>When th' Duſt doth into hardneſs grow,</l>
+                     <l>And Clods cleave faſt together do.</l>
+                  </lg>
+                  <lg n="19">
+                     <pb n="11" facs="tcp:32065:13"/>
+                     <head>19.</head>
+                     <l>Who for the Raven doth provide,</l>
+                     <l>His Food, and give to them ſupply:</l>
+                     <l>When unto God his young Ones cry,</l>
+                     <l>Wandring in their Neceſſity.</l>
+                  </lg>
+                  <div type="subpart">
+                     <head>
+                        <hi>Chap.</hi> 39. 13.</head>
+                     <lg n="20">
+                        <head>20.</head>
+                        <l>Who to the Peacock gave theſe wings,</l>
+                        <l>Which are ſo glorious and gay:</l>
+                        <l>When that his Tail is ſpread abroad,</l>
+                        <l>How goodly to the view are they.</l>
+                     </lg>
+                  </div>
+                  <div type="subpart">
+                     <head>Chap. 39. verſe 19. to the end.</head>
+                     <lg n="21">
+                        <head>21.</head>
+                        <l>Haſt thou given Strength unto the Horſe,</l>
+                        <l>Haſt thou with Thunder cloath'd his Neck?</l>
+                        <l>Canſt as a Graſhopper him make,</l>
+                        <l>Afraid? His ſnortings fear Create.</l>
+                     </lg>
+                     <lg n="22">
+                        <head>22.</head>
+                        <l>He paweth in the Valley, in</l>
+                        <l>His Strength he glories, furiouſly</l>
+                        <l>With Pride and Courage he doth march,</l>
+                        <l>To meet the armed Enemy.</l>
+                     </lg>
+                     <lg n="23">
+                        <head>23.</head>
+                        <l>He mocks at fear, nothing him daunts,</l>
+                        <l>And from the Sword turns back not he:</l>
+                        <l>Quivers againſt him rattle, and</l>
+                        <l>The Shield and Spears that glittering be.</l>
+                     </lg>
+                     <lg n="24">
+                        <head>24.</head>
+                        <l>The ground with fierceneſs and with Rage,</l>
+                        <l>He ſwalloweth<g ref="char:punc">▪</g> yea and although:</l>
+                        <l>The Trumpet ſounds to Battel, yet</l>
+                        <l>He makes as if it was not ſo.</l>
+                     </lg>
+                     <lg n="25">
+                        <head>25.</head>
+                        <l>Ha, Ha, among the Trumpets he,</l>
+                        <l>Doth ſay, the Battel ſmelleth He:</l>
+                        <l>Far off, the Captains thunder and,</l>
+                        <l>The noiſes that tumultuous be.</l>
+                     </lg>
+                  </div>
+               </div>
+               <div n="4" type="part">
+                  <pb n="12" facs="tcp:32065:14"/>
+                  <head>IV. <hi>Part.</hi>
+                  </head>
+                  <lg n="26">
+                     <head>26.</head>
+                     <l>Doth by thy Wiſdom the Hawk fly,</l>
+                     <l>For warmth her Wings ſtretch Southernly:</l>
+                     <l>Doth th' Eagle Mount at thy Command,</l>
+                     <l>So as to make her Neſt on high.</l>
+                  </lg>
+                  <lg n="27">
+                     <head>27.</head>
+                     <l>She dwelleth, and ſhe doth abide,</l>
+                     <l>Upon the Rock, yea dwell doth ſhe:</l>
+                     <l>Upon the very crag o'th' Rock,</l>
+                     <l>So ſtrong that moved it can't be.</l>
+                  </lg>
+                  <lg n="28">
+                     <head>28.</head>
+                     <l>From thence ſhe fleeth for to ſeek,</l>
+                     <l>And fetch the Prey, which ſhe doth ſee:</l>
+                     <l>Yea thorough her ſharp ſightedneſs,</l>
+                     <l>She ſees it, tho far of it be.</l>
+                  </lg>
+                  <lg n="29">
+                     <head>29.</head>
+                     <l>Her young Ones alſo ſuck up Blood,</l>
+                     <l>Which ſhe hath train'd them up unto:</l>
+                     <l>And where the ſlain are, there is ſhe,</l>
+                     <l>And there ſhe doth delight to be, <hi>&amp;c.</hi>
+                     </l>
+                     <l>How wonderful Lord are thy Works,</l>
+                     <l>In Wiſdom haſt thou made them all:</l>
+                     <l>And they do thy Perfections,</l>
+                     <l>Preach, and Diſplay, both great and ſmall.</l>
+                  </lg>
+                  <p>
+                     <hi>Pleiades, Orion, Mazzaroth,</hi> and <hi>Arcturus,</hi> and his Sons ſpoken of, <hi>Chap.</hi> 38. ver. 31, 32. are four famous Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtellations; and have re<g ref="char:EOLhyphen"/>ſpect to the four Seaſons of the Year, <hi>Pleiades</hi> to the Spring, <hi>Orion</hi> to the Winter, <hi>Mazzaroth</hi> to the Summer, <hi>Arcturus</hi> with his Sons to the Autumn, and the Virtues, Influences, and Ef<g ref="char:EOLhyphen"/>fects which theſe produce are wonderful, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery ben<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cial, and many unſeen, and un<g ref="char:EOLhyphen"/>known Benefits, we have by them.</p>
+               </div>
+            </div>
+            <div type="section">
+               <pb n="13" facs="tcp:32065:14"/>
+               <head>
+                  <hi>Job</hi> 37. 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 22, 23, 24.</head>
+               <div type="part">
+                  <head>
+                     <hi>To the Tune</hi> 100. Pſalm.</head>
+                  <lg n="1">
+                     <head>1.</head>
+                     <l>HEar we the loud noiſe of God's Voice,</l>
+                     <l>Attentively, and tremble we:</l>
+                     <l>The ſound that goes out of his Mouth,</l>
+                     <l>Of it obſervant let us be.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>Under the Cope of the whole Heaven,</l>
+                     <l>The noiſe thereof directeth He:</l>
+                     <l>And even unto the ends o'th' Earth,</l>
+                     <l>His Light'nings diſperſed be.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Then after them a Voice doth roar,</l>
+                     <l>With Voice of his Excellency,</l>
+                     <l>He thundereth, and ſoon the Rain,</l>
+                     <l>And Storms follow immediately.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>5.</head>
+                     <l>God marvelouſly with his Voice</l>
+                     <l>Doth Thunder, and him dread ſhould we:</l>
+                     <l>Great Things and wonderful doth He,</l>
+                     <l>Which cannot comprehended be.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>For he ſaith to the Snow be thou,</l>
+                     <l>Upon the Earth likewiſe unto;</l>
+                     <l>The ſmall and great Rain of his Strength,</l>
+                     <l>Be ye upon the Earth alſo.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>He ſealeth up the Hands of all,</l>
+                     <l>That all thereby his Work may know:</l>
+                     <l>The Beaſts do go then into Dens,</l>
+                     <l>And remain in their Places do.</l>
+                  </lg>
+                  <pb n="12" facs="tcp:32065:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="13" facs="tcp:32065:15"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:32065:16"/>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>Out of the <hi>South</hi> the Whirlwind comes,</l>
+                     <l>And out o'th' <hi>North</hi> comes Cold alſo:</l>
+                     <l>Froſt by the Breath of God is given,</l>
+                     <l>And th' Waters breadth is ſtraitned ſo.</l>
+                  </lg>
+                  <lg n="9">
+                     <head>9.</head>
+                     <l>Alſo by watering, the Cloud</l>
+                     <l>Tho' thick, weary and waſte doth He:</l>
+                     <l>And here, and there, as he ſees good,</l>
+                     <l>The bright Clouds ſcattered they be.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>10.</head>
+                     <l>And by his Counſels, of the Clouds,</l>
+                     <l>The Motions all they order'd be:</l>
+                     <l>To do throughout the World on Earth,</l>
+                     <l>Whatſoever commandeth He.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>11.</head>
+                     <l>He on his Errand ſends them that,</l>
+                     <l>Where'er he pleaſeth they may go:</l>
+                     <l>Either to Puniſh and Correct,</l>
+                     <l>Or for Mercy the Land unto.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>12.</head>
+                     <l>Now hearken we to this, ſtand ſtill</l>
+                     <l>And paſs not by it overly:</l>
+                     <l>Alſo the wondrous Works of God,</l>
+                     <l>Let us conſider ſeriouſly.</l>
+                  </lg>
+                  <lg n="13">
+                     <head>13.</head>
+                     <l>Fair Weather cometh out o'th' <hi>North,</hi>
+                     </l>
+                     <l>Which for its Radiant Splendency:</l>
+                     <l>Doth ſeem as Gold unto the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ye,</l>
+                     <l>With God is dreadful Majeſty.</l>
+                  </lg>
+                  <lg n="14">
+                     <head>14.</head>
+                     <l>As touching the Almighty, Him</l>
+                     <l>Perfectly find out cannot we:</l>
+                     <l>In Power, Judgment, alſo in</l>
+                     <l>Plenty of Juſtice excels He.</l>
+                  </lg>
+                  <lg n="15">
+                     <head>15.</head>
+                     <l>Not without Cauſe will he afflict</l>
+                     <l>Not any one who e'er he be:</l>
+                     <l>Men therefore juſtly do him fear</l>
+                     <l>Who wiſe in Heart, reſpects not he.</l>
+                  </lg>
+               </div>
+               <div type="part">
+                  <pb n="15" facs="tcp:32065:16"/>
+                  <head>
+                     <hi>Job</hi> 42. 2.—</head>
+                  <lg n="16">
+                     <head>16.</head>
+                     <l>We know thou canſt do every thing,</l>
+                     <l>Even whatſoever pleaſeth Thee:</l>
+                     <l>Neither can what thou purpoſeſt,</l>
+                     <l>By any one once hinder'd be.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+         <div type="subject">
+            <head>
+               <hi>Concerning</hi> Behemoth.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 40. 15, 18, 19, 23.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BEhold now <hi>Behemoth,</hi> in him</l>
+                  <l>How great my Power appears to be:</l>
+                  <l>Thy Fellow-Creature, and who is,</l>
+                  <l>My handy-work, as well as thee.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>He of the Ways of God is chief,</l>
+                  <l>And yet tho' terrible he be:</l>
+                  <l>He that him made can him ſubdue,</l>
+                  <l>Yea and deſtroy him eaſily.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>His Bones are ſtrong, as if of Braſs,</l>
+                  <l>Yea they as Bars of Iron be:</l>
+                  <l>Lo he Drinks up a River and,</l>
+                  <l>Away for fear haſteth not he.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>He truſts he can into his Mouth,</l>
+                  <l>
+                     <hi>Jordan</hi> draw up, conceits ſo he:</l>
+                  <l>Thro' Snares his Noſe doth pierce, and they</l>
+                  <l>Are vain, where ever, laid they be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="16" facs="tcp:32065:17"/>
+            <head>
+               <hi>Concerning</hi> Leviathan.</head>
+            <div type="section">
+               <head>Job 41. 1, 7, 8, 9, 10, 11, 12, 24, &amp;c.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BEhold alſo <hi>Leviathan,</hi>
+                  </l>
+                  <l>How vaſt and huge a Creatures he:</l>
+                  <l>As other Fiſhes taken are,</l>
+                  <l>He no ſuch ways can taken be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Canſt thou with barbed Irons fill,</l>
+                  <l>His Skin or Head, with Fiſh-ſpears keen:</l>
+                  <l>If thou attempt it, don't no more,</l>
+                  <l>The Battel weigh, be glad its o'er.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Behold the hope of him's in vain,</l>
+                  <l>That would him take, ſhall not one be:</l>
+                  <l>Caſt down even at the ſight of him?</l>
+                  <l>So dreadful is it him to ſee.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>None is there that dares ſtir him up,</l>
+                  <l>No not how fierce ſo e'er he be:</l>
+                  <l>And who then able is to ſtand,</l>
+                  <l>Before me, or contend with me?</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>That I ſhould him repay again,</l>
+                  <l>Who is there hath prevented me?</l>
+                  <l>What e'er is under the whole Heaven,</l>
+                  <l>All's mine, and doth belong to me.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>As for <hi>Leviathan,</hi> his Parts,</l>
+                  <l>So admirable and ſo ſtrong:</l>
+                  <l>And Power, I will not conceal,</l>
+                  <l>Nor his comely Proportion.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="17" facs="tcp:32065:17"/>
+                  <head>7.</head>
+                  <l>His Heart is firm, even as a Stone,</l>
+                  <l>As th' nether Milſtone hard and ſtrong:</l>
+                  <l>His Courage is invincible,</l>
+                  <l>He void of Fear he dreadeth none.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>When that himſelf he raiſeth up,</l>
+                  <l>The Mighty then they are afraid:</l>
+                  <l>They fall to their Devotions,</l>
+                  <l>Such breakings of the Waves are made.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>The Sword that laies at him can't hold,</l>
+                  <l>Not Spear, Dart, nor Habergeon:</l>
+                  <l>As Straw, he Iron doth eſteem,</l>
+                  <l>And Braſs as Rotten Wood doth Deem.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>The Arrow cannot make him flee,</l>
+                  <l>Sling Stones as ſtubble counted be:</l>
+                  <l>Yea Darts as ſtubble counted are,</l>
+                  <l>At ſhaking of the Spear laughs he.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Sharp Pointed Stones are under him,</l>
+                  <l>And yet with eaſe them lies upon:</l>
+                  <l>And by his weight ſharp pointed Things,</l>
+                  <l>Abroad the Mire ſpreads upon.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Boil like a Pot he makes the Deep,</l>
+                  <l>Like to a Pot of Oyntment he:</l>
+                  <l>The Sea, ſhines after him a Path,</l>
+                  <l>Hoary the Deep it ſeems to be.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Upon Earth there is not the like,</l>
+                  <l>He fears no Enemy, not he:</l>
+                  <l>He looks on th' higheſt with Contempt,</l>
+                  <l>He's King o'er all that proudeſt be.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 13. 11.</head>
+               <lg>
+                  <l>And ſhall not then God's Majeſty,</l>
+                  <l>And his Excellency withal:</l>
+                  <l>Make us to be afraid, and ſha'nt</l>
+                  <l>His dread ſo great upon us fall.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="18" facs="tcp:32065:18"/>
+            <head>God Inviſible.</head>
+            <div type="section">
+               <head>Job 9. 11. Job 23. 8, 9.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>LO in his Works of Providence,</l>
+                  <l>He ſtill me goeth by:</l>
+                  <l>And him I ſee not, paſſes on</l>
+                  <l>But him perceive not I.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Behold I do go forward but</l>
+                  <l>There God I can not ſee:</l>
+                  <l>And I go backward, but not there,</l>
+                  <l>By me perceiv'd is he.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>On the left Hand where he doth Work,</l>
+                  <l>But him behold cann't I:</l>
+                  <l>On the Right Hand, he hides himſelf,</l>
+                  <l>That him I cannot Spy.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>God Omniſcient.</head>
+            <div type="section">
+               <head>Job 34. 21, 22. Job 22. 13, 14.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Eyes 'f th' Lord, they are upon,</l>
+                  <l>Even all the Ways of Man:</l>
+                  <l>And all their goings he doth ſee,</l>
+                  <l>From him none hide them can.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="19" facs="tcp:32065:18"/>
+                  <head>2.</head>
+                  <l>There is no Darkneſs (all is clear)</l>
+                  <l>Nor Shade of Death is there:</l>
+                  <l>Wherein who Work Iniquity,</l>
+                  <l>May hide, and not appear.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>There are that ſay, how doth God know,</l>
+                  <l>Can he the Clouds Judge thro?</l>
+                  <l>Which dark are, but the thickeſt Clouds,</l>
+                  <l>No covering him are to.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Doth he not ſee my Ways, and all</l>
+                  <l>My goings ponders He?</l>
+                  <l>Yea all my goings and my ſteps,</l>
+                  <l>By him they counted be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>
+               <hi>God Juſt and Righteous, to the Tune of the</hi> 100. Pſalm.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 34. 10, 11, 12, 13, 16, 17, 18, 19, 20, 23.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>GIve Ear and hearken unto me,</l>
+                  <l>Ye who of Underſtanding be:</l>
+                  <l>Far be it from th' Righteous God,</l>
+                  <l>That he ſhould do unrighteouſly.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And from th' Almighty be it far,</l>
+                  <l>That he ſhould Act Iniquity:</l>
+                  <l>Which to his Holy Nature is,</l>
+                  <l>So much againſt, and contrary.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>For unto Man render ſhall He,</l>
+                  <l>According as his Works ſhall be:</l>
+                  <l>And every Man as are his Ways,</l>
+                  <l>So cauſe him for to find will he.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="20" facs="tcp:32065:19"/>
+                  <head>4.</head>
+                  <l>For ſurely God neither can,</l>
+                  <l>Neither will he do wickedly:</l>
+                  <l>Nor will he Judgment once pervert,</l>
+                  <l>Who is the Lord God Almighty.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Who hath a Charge given him o'r th' Earth,</l>
+                  <l>That he accountable ſhould be:</l>
+                  <l>And who the whole World hath diſpos'd,</l>
+                  <l>And ſtill doth it diſpoſe, but He?</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>If Underſtanding now thou haſt,</l>
+                  <l>Hear this and hearken unto me:</l>
+                  <l>Unto the Voice now of my Words,</l>
+                  <l>That I ſhall further ſay to Thee.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Shall He govern that hateth right,</l>
+                  <l>And doth in doing wrong Delight?</l>
+                  <l>Shall he even govern, and wilt thou,</l>
+                  <l>Condemn him, who's moſt Juſt and Right?</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Is't fit unto a King to ſay,</l>
+                  <l>Thou Wicked art, alſo unto</l>
+                  <l>Princes yea are Ungodly, tho'</l>
+                  <l>No other they may be than ſo?</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>How much leſs unto him that don't,</l>
+                  <l>Perſons accept, who Princes be:</l>
+                  <l>Nor Rich Regards more then the Poor,</l>
+                  <l>For all of them formed hath He.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>They ſhall even in a Moment Die,</l>
+                  <l>And that when moſt ſecure they:</l>
+                  <l>And paſs away, and without Hand,</l>
+                  <l>The mighty ſhall be took away.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Behold God will not lay on Man,</l>
+                  <l>More than what's Juſt and Right, that he</l>
+                  <l>In Judgment enter ſhould with God,</l>
+                  <l>As if he puniſh'd cauſeleſly.</l>
+               </lg>
+               <lg n="12">
+                  <pb n="21" facs="tcp:32065:19"/>
+                  <head>12.</head>
+                  <l>Shall not the Judge of all the Earth,</l>
+                  <l>Do right, elſe '<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> unrighteous He:</l>
+                  <l>How ſhall he Judge the World, and how</l>
+                  <l>By him ſhall others judged be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>
+               <hi>God Incomprehenſible. To the Tune of the</hi> 100. Pſalm.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 11. 7, 8, 9. and 36. 26.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>CAnſt thou by ſearching find out God?</l>
+                  <l>Canſt thou unto Perfection?</l>
+                  <l>By ſearching find out him who is,</l>
+                  <l>So Great, and the Almighty one.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>God's Wiſdom, which is God himſelf,</l>
+                  <l>It is as high as Heaven for heighth:</l>
+                  <l>Then perfectly to find it out,</l>
+                  <l>What canſt thou do withal thy might.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Than Hell it's deeper, what canſt know?</l>
+                  <l>The meaſure longer is alſo,</l>
+                  <l>Than th' Earth, and broader than the Sea,</l>
+                  <l>What then to find it out canſt do?</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Behold God he is great, and him</l>
+                  <l>Not know nor comprehend can we:</l>
+                  <l>Nor can the number of his Years,</l>
+                  <l>Once ſearched out by any be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="22" facs="tcp:32065:20"/>
+            <head>Gods magnifying of Man, and therein his great Condeſcention.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 7. 17, 18. 36. 5.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>LOrd what is Man that magnifie,</l>
+                  <l>Thou ſhouldeſt ſuch a one?</l>
+                  <l>And that being ſo mean thou ſhould'ſt,</l>
+                  <l>Him thine Heart ſet upon?</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And that thou ſhouldeſt viſit him,</l>
+                  <l>Each Morn ſucceſſively:</l>
+                  <l>And every Moment that thou ſhould'ſt,</l>
+                  <l>Vouchſafe him for to try.</l>
+                  <l>Behold God he is great, and yet</l>
+                  <l>He don't deſpiſe any:</l>
+                  <l>In Strength and Wiſdom, Mighty, and</l>
+                  <l>He hateth Tyranny.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>Wiſdom it is of God.</head>
+            <div type="section">
+               <head>Job 38. 36. 32. 7, 8, 9.</head>
+               <lg>
+                  <l>WHo is it that Wiſdom hath put,</l>
+                  <l>Within the inward Parts?</l>
+                  <l>Or ſaving Underſtanding who,</l>
+                  <l>Hath given it to the Heart?</l>
+                  <l>
+                     <pb n="23" facs="tcp:32065:20"/>
+I ſaid that Days ſhould ſpeak, and Years</l>
+                  <l>When many Wiſdom teach:</l>
+                  <l>But great Men are not always Wiſe,</l>
+                  <l>Nor th' Aged Judgment reach.</l>
+                  <l>But there's in Man a Spirit, and</l>
+                  <l>The Inſpiration:</l>
+                  <l>That gives him Underſtanding 'tis,</l>
+                  <l>Of the Almighty one.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>Affliction from God.</head>
+            <div type="section">
+               <head>Job 5. 6, 7, 8.</head>
+               <lg>
+                  <l>SUrely Affliction doth not,</l>
+                  <l>Come forth out of the Duſt,</l>
+                  <l>Nor Trouble Spring out of the Ground,</l>
+                  <l>But higher look we muſt.</l>
+                  <l>Yet Man is unto Trouble Born,</l>
+                  <l>As upwards Sparks do fly:</l>
+                  <l>I would ſeek unto God, to God</l>
+                  <l>My Cauſe commit would I.</l>
+                  <l>For He it is that doth perform,</l>
+                  <l>What is appointed me:</l>
+                  <l>Of ſuch Proceedings, and with Men</l>
+                  <l>Many the like there be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="24" facs="tcp:32065:21"/>
+            <head>Gods Way with the Righteous.</head>
+            <div type="section">
+               <head>Job 36. 7, 8, 9, 10, 11, 12.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>GOd from the Righteous doth not,</l>
+                  <l>Withdraw his Eyes, no nor his Care,</l>
+                  <l>But them on high he doth exalt,</l>
+                  <l>And they alſo eſtabliſh'd are.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And if in Fetters they be bound,</l>
+                  <l>And in Afflictions Cords, held be,</l>
+                  <l>He then ſhews them their Work, and that</l>
+                  <l>Their Sins exceeded, makes them ſee.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>He unto Diſcipline their Ears,</l>
+                  <l>Alſo he openeth unto,</l>
+                  <l>And them commandeth, that return</l>
+                  <l>They from Iniquity then do.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>If that they do obey him, and</l>
+                  <l>Do ſerve him in Sincerity:</l>
+                  <l>Their Years in Pleaſures they ſhall ſpend,</l>
+                  <l>And their Days in Proſperity.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>But if that they do not obey,</l>
+                  <l>They ſhall the Sword then periſh by:</l>
+                  <l>And for their inadvertency,</l>
+                  <l>Yea, and their Folly they ſhall Die.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="25" facs="tcp:32065:21"/>
+            <head>There's no contending with God.</head>
+            <div type="section">
+               <head>Job 33. 13.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BEhold God greater is then Man,</l>
+                  <l>And who then ſhall againſt him ſtrive:</l>
+                  <l>For of his Matters an Account,</l>
+                  <l>Not unto any doth he give.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 40. 8, 9.</head>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Shall he that with the Almighty doth,</l>
+                  <l>Contend by him inſtructed be:</l>
+                  <l>Who ever dares him to reprove,</l>
+                  <l>It at his Peril anſwer he</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Wilt thou my Judgment diſanul,</l>
+                  <l>Wilt thou condemn and cenſure me:</l>
+                  <l>As if that I unrighteous were,</l>
+                  <l>That thou thy ſelf maiſt righteous be.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Haſt thou an Arm like unto God?</l>
+                  <l>With him in Power cauſt thou vie:</l>
+                  <l>Or canſt thou Thunder like him with,</l>
+                  <l>A Voice of ſuch Excellency.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Deck now thy ſelf with Majeſty,</l>
+                  <l>And alſo with Excellency:</l>
+                  <l>And do thy ſelf alſo array,</l>
+                  <l>With Glory, yea, and with Beauty.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>The rage of thy Wrath caſt abroad,</l>
+                  <l>And every one behold and ſee:</l>
+                  <l>That proud and haughty is and him,</l>
+                  <l>By Thee abaſed let him be.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="26" facs="tcp:32065:22"/>
+                  <head>7.</head>
+                  <l>On every one look on thus ſo,</l>
+                  <l>And do thou him alſo bring low:</l>
+                  <l>And in their Place do thou tread down,</l>
+                  <l>Even all that wickedly ſtill do.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Do thou then ſlay even every one,</l>
+                  <l>And intoth' Grave together throw:</l>
+                  <l>In ſecret bind their Faces ſo,</l>
+                  <l>As unto th' dead they uſe to do.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Now if that thou theſe things canſt do,</l>
+                  <l>Then I confeſs will unto Thee:</l>
+                  <l>That thine own right Hand, can thee ſave</l>
+                  <l>And then mayeſt thou contend with me.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>As concerning Man. Mans ſinfulneſs, vileneſs, unworthineſs and worthleſneſs.</head>
+            <div type="section">
+               <head>Job 4. 17, 18, 19, 20, 21.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SHall Man, who Mortal is, then God</l>
+                  <l>More Juſt, and Righteous be?</l>
+                  <l>And ſhall a Man more pure be,</l>
+                  <l>Then he whoſe make is he.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Behold he in his Angels ſaw,</l>
+                  <l>No Truſt repos'd to be:</l>
+                  <l>His Angels though ſo Holy, yet</l>
+                  <l>With Folly chargeth He.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>How much leſs then on them that dwell,</l>
+                  <l>In Houſes but of Clay:</l>
+                  <l>Which founded are inth' Duſt, before</l>
+                  <l>The Moth cruſhed are they.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="27" facs="tcp:32065:22"/>
+                  <head>4.</head>
+                  <l>From Morning, even unto the Even,</l>
+                  <l>They ſtill deſtroyed be:</l>
+                  <l>For ever periſh, and yet who</l>
+                  <l>That it Regards is He?</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Doth not their Excellency which,</l>
+                  <l>Is in them go away.</l>
+                  <l>And they do without Wiſdom die,</l>
+                  <l>And ſoon hence paſs away.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 9. 20, 30, 31.</head>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>If I my ſelf do juſtifie,</l>
+                  <l>Even my own Mouth ſhall me</l>
+                  <l>Condemn, if perfect, I do ſay,</l>
+                  <l>Perverſe it ſhall prove me.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>If with Snow-water I me waſh,</l>
+                  <l>And Hands clean make to be:</l>
+                  <l>I'th' Ditch thou ſhalt me plunge and my,</l>
+                  <l>Own Cloaths abhor ſhall me.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 15. 14, 15, 16.</head>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Oh what is Man, poor ſorry Man?</l>
+                  <l>So that clean ſhould be he:</l>
+                  <l>And who is of a Woman Born,</l>
+                  <l>That Righteous he ſhould be.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Behold he puts no Truſt in's Saints,</l>
+                  <l>Who Angels are of Light:</l>
+                  <l>Yea not the Heavens, nor Stars of Heaven,</l>
+                  <l>Are pure in his ſight.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>How much abominable more,</l>
+                  <l>Is Man, and filthy he:</l>
+                  <l>Who as the Fiſh doth Water, ſo</l>
+                  <l>Doth drink Iniquity.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="28" facs="tcp:32065:23"/>
+               <head>
+                  <hi>Job</hi> 40. 4, 5.</head>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Behold Lord. I am vile,</l>
+                  <l>What ſhall I anſwer Thee:</l>
+                  <l>I'le lay my Hand upon my Mouth,</l>
+                  <l>And ſilent I will be.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Indeed once have I ſpoke,</l>
+                  <l>But anſwer will not I,</l>
+                  <l>Yea twice, but further anſwer ſhall,</l>
+                  <l>No more be made by me.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 42. 5, 6.</head>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>By th' hearing of the Ear,</l>
+                  <l>Of Thee Lord heard have I:</l>
+                  <l>But now mine Eye Thee ſees, therefore</l>
+                  <l>Abhor my Self do I.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>In Du<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and Aſhes, and</l>
+                  <l>I do Repent, for I:</l>
+                  <l>Have utter'd things that are beyond,</l>
+                  <l>Far my Capacity.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 9. 2, 3.</head>
+               <lg>
+                  <l>Before God how ſhould Man be juſt,</l>
+                  <l>None juſt with him can be:</l>
+                  <l>Him of a Thouſand if contend,</l>
+                  <l>Not one can anſwer He.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="29" facs="tcp:32065:23"/>
+            <head>Mans Frailty, and Mortality, the Bre<g ref="char:EOLhyphen"/>vity of his Life, and impoſſibility of his Return hither again.</head>
+            <div type="section">
+               <head>Job 7. 6, 7, 8, 9, 10.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Weavers Shuttle that is ſwift,</l>
+                  <l>But Mans Days ſwifter be:</l>
+                  <l>And ſpent they are, and that without</l>
+                  <l>Hope of Recovery.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O God remember that my Life,</l>
+                  <l>Is Wind, unſteady, vain:</l>
+                  <l>And going hence, mine Eye no more,</l>
+                  <l>Good here ſhall ſee again.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>As is conſum'd the Cloud, and doth</l>
+                  <l>Vaniſh away, even ſo:</l>
+                  <l>He ſhall come up no more from thence,</l>
+                  <l>That down to th' Grave doth go:</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>He ſhall return no more unto,</l>
+                  <l>His Houſe, where once he were:</l>
+                  <l>Neither for ever any more:</l>
+                  <l>His Place ſhall know him there.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The Eye of him that hath him ſeen,</l>
+                  <l>Here him no more ſhall ſee:</l>
+                  <l>Thine Eyes they are upon him, and</l>
+                  <l>No longer here is He.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="30" facs="tcp:32065:24"/>
+               <head>
+                  <hi>Job</hi> 9. 25, 26.</head>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Mans Days are ſwifter then a Poſt,</l>
+                  <l>They ſee no good, away</l>
+                  <l>They flee, as the ſwift Ships they paſs,</l>
+                  <l>As th' Eagle haſts toth' Prey.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 14. 1, 2, 3. 5, 7, 8, 9, 10, 11, 12, 18, 19, 20, 21, 22.</head>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Man of a Woman that is born,</l>
+                  <l>He is of few Days here:</l>
+                  <l>And thoſe his Days, though few they be,</l>
+                  <l>They full of trouble are.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>He like a Flower cometh forth,</l>
+                  <l>And ſoon down is he cut:</l>
+                  <l>He alſo as a Shadow flees,</l>
+                  <l>And here continues not.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>And doſt thou upon ſuch a one,</l>
+                  <l>So much as ope thine Eyes:</l>
+                  <l>And into Judgment with Thee bring,</l>
+                  <l>Who failes ſo ſoon and Dies.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Mans Days determin'd are, his Months,</l>
+                  <l>They numbred are by Thee:</l>
+                  <l>His Bounds thou haſt appointed, and</l>
+                  <l>Thoſe Bounde paſs cannot He.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>There's hope of a Tree if cut down,</l>
+                  <l>That it again will Sprout:</l>
+                  <l>And that the tender Branch thereof,</l>
+                  <l>Will not ceaſe but put out.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Tho'th' Root thereof, wax old inth' Earth,</l>
+                  <l>And Stock in th' Earth doth Die:</l>
+                  <l>Yet thro' the ſcent o'th' Water it,</l>
+                  <l>Will Bud and multiply.</l>
+               </lg>
+               <lg n="13">
+                  <pb n="31" facs="tcp:32065:24"/>
+                  <head>13.</head>
+                  <l>But Man he dies and waſts away,</l>
+                  <l>Yea Man gives up, we ſee</l>
+                  <l>The Ghoſt, and when he giveth up,</l>
+                  <l>The Ghoſt, then where is he?</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>As from the Sea, the Waters fail,</l>
+                  <l>Floods dry up, and decay:</l>
+                  <l>So Man he lieth down, and not,</l>
+                  <l>Riſe up again ſhall they.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Until the Heavens ſhall be no more,</l>
+                  <l>Not once awake they ſhall:</l>
+                  <l>Nor out of their long Sleep ſhall they,</l>
+                  <l>Be raiſed up at all.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Surely the Mountain falling comes</l>
+                  <l>To nought, moulders away:</l>
+                  <l>And th' Rock Remov'd out of it's Place,</l>
+                  <l>Where over thrown, doth ſtay.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>The Waters wear the Stones, the things</l>
+                  <l>That out o'th' Earth do grow,</l>
+                  <l>Away thou waſtreſt and the hope,</l>
+                  <l>Of Man deſtroy'd is ſo.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>For ever thou againſt him doſt,</l>
+                  <l>Prevail, and paſſeth he:</l>
+                  <l>His Countenance thou changeſt and,</l>
+                  <l>Away he's ſent by Thee.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>His Sons they unto Honour come,</l>
+                  <l>And it he doth not know:</l>
+                  <l>Neither perceives he this of them;</l>
+                  <l>When that they are brought low.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>But this is Mans Condition here,</l>
+                  <l>His Fleſh on him hath Pain:</l>
+                  <l>Alſo his Soul within him, that</l>
+                  <l>Shall Mourn, Man's ſurely vain.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="32" facs="tcp:32065:25"/>
+               <head>
+                  <hi>Job</hi> 21. 23, 24, 25, 26, 33.</head>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>One Dies in his full Strength when he,</l>
+                  <l>Finds not the leaſt decay:</l>
+                  <l>But is at eaſe, and Nature ſtrong,</l>
+                  <l>And vigorous every way.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>Another Dies in bitterneſs,</l>
+                  <l>Of Soul and Agony:</l>
+                  <l>And never doth he eat but with</l>
+                  <l>Greif and Anxiety.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>They both ſhall in the Duſt lie down,</l>
+                  <l>And both alike ſhall fare:</l>
+                  <l>The Worms devouring both i'th' Grave,</l>
+                  <l>No difference is there.</l>
+               </lg>
+               <lg n="24">
+                  <head>24.</head>
+                  <l>And as innumerable are,</l>
+                  <l>Thoſe that before are gone:</l>
+                  <l>So every Man ſhall after them</l>
+                  <l>Draw, and eſcape ſhall none.</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>If God againſt Man ſets his Heart,</l>
+                  <l>No longer here to be:</l>
+                  <l>If that his Spirit to himſelf,</l>
+                  <l>And Breath gather doth He.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>All Fleſh together periſh ſhall,</l>
+                  <l>Yea all then periſh muſt:</l>
+                  <l>And of Neceſſity they all,</l>
+                  <l>Muſt turn again toth' Duft.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="33" facs="tcp:32065:25"/>
+            <head>What is Mans Wiſdom.</head>
+            <div type="section">
+               <head>Job 28. 1, 2, 5, 6, 12, 28.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SUrely for Silver there's a Vein,</l>
+                  <l>A Place for Gold, which Men refine,</l>
+                  <l>Out of the Earth is took Iron,</l>
+                  <l>Braſs molten is out of the Stone.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>From th' Earth comes Bread, from under it</l>
+                  <l>Is Fire turn'd up as it were:</l>
+                  <l>It's Stones the Place of Saphires are,</l>
+                  <l>And Duſt of Gold, it is found there, <hi>&amp;c.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Thus in great Meaſure Man indeed,</l>
+                  <l>Hath Skill and Wiſdom to find out:</l>
+                  <l>The Works of Nature, and of Art,</l>
+                  <l>Contrivemnts for to bring about.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>But as for the Wiſdom ſublime,</l>
+                  <l>With which the World God govern doth:</l>
+                  <l>That comprehend cann't any one,</l>
+                  <l>It's God's Prerogative alone.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>But though that Wiſdom ſo ſublime,</l>
+                  <l>Unto himſelf Reſerv'd hath he:</l>
+                  <l>There is a Wiſdom God commends,</l>
+                  <l>And of which capable are we.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>And this God hath declar'd to Man,</l>
+                  <l>The fear o'th<g ref="char:punc">▪</g> Lord behold that is:</l>
+                  <l>Mans Wiſdom and for to depart,</l>
+                  <l>From Evil Underſtanding is.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="34" facs="tcp:32065:26"/>
+            <head>The Godlies ſubmiſſiveneſs under the affli<g ref="char:EOLhyphen"/>cting Hand of God.</head>
+            <div type="section">
+               <head>Job 1. 21, 22. 2. 10.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>NAked out of my Mothers Womb,</l>
+                  <l>Into the World I came:</l>
+                  <l>And Naked out o'th' World ſhall I,</l>
+                  <l>Return to th' Earth again,</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Lord he gave, and the Lord hath</l>
+                  <l>Taken again away:</l>
+                  <l>And the Name of the Lord, that hath</l>
+                  <l>Done both be, bleſs'd for Aye.</l>
+                  <l>Good at the Hand of God ſhall we,</l>
+                  <l>Receive, and ſhall not we:</l>
+                  <l>Evil alſo receive if that,</l>
+                  <l>On us inflicteth He.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 5. 17, 18, 12.</head>
+               <lg>
+                  <l>Behold the Man is Happy, whom</l>
+                  <l>The great God doth Correct:</l>
+                  <l>Therefore th' Almighties chaſtening:</l>
+                  <l>Deſpiſe not, nor reject.</l>
+                  <l>For ſore he mak'th, and the ſore</l>
+                  <l>He maketh, binds up He:</l>
+                  <l>Alſo he woundeth, and his Hand</l>
+                  <l>The Wound whole makes to be.</l>
+                  <l>
+                     <pb n="35" facs="tcp:32065:26"/>
+In Trouble, yea in Troubles Six,</l>
+                  <l>He ſhall deliver Thee:</l>
+                  <l>Yea, even in ſeven, that thou ſhalt with,</l>
+                  <l>No Evil touched be.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 34. 31, 32.</head>
+               <lg>
+                  <l>Surely if God Chaſtiſe, it's meet,</l>
+                  <l>That ſay to him do we:</l>
+                  <l>We have Chaſtiſement Born, and we</l>
+                  <l>No more offend will Thee.</l>
+                  <l>That which I ſee not, teach thou me,</l>
+                  <l>If I Iniquity</l>
+                  <l>Have in Time paſt done, yet now it</l>
+                  <l>No longer do will I.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Godlies Hope and Happineſs.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>I Know that my Redeemer lives,</l>
+               <l>Yea Lives for ever, and</l>
+               <l>That at the latter Day even He,</l>
+               <l>Upon the Earth ſhall ſtand.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>And though after my Skin, deſtroy'd</l>
+               <l>By Worms this Body be:</l>
+               <l>Yet in my Fleſh, yea in my Fleſh,</l>
+               <l>I ſurely God ſhall ſee.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Whom I ſhall ſee even for my ſelf,</l>
+               <l>Yea mine own Eyes ſhall ſee:</l>
+               <l>And not another, though my Reines,</l>
+               <l>Conſum'd within me be.</l>
+            </lg>
+            <div type="section">
+               <pb n="36" facs="tcp:32065:27"/>
+               <head>
+                  <hi>Job</hi> 14. 14, 15.</head>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>If Man once Die, ſhall he again</l>
+                  <l>Yet live, then as for me:</l>
+                  <l>All Days of my appointed Time,</l>
+                  <l>I'le wait till my Change be.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Thou ſhalt me call out of the Grave,</l>
+                  <l>And I will anſwer Thee:</l>
+                  <l>And thou the Work wilt of thine Hands,</l>
+                  <l>Have a deſire to ſee.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 13. 15, 16.</head>
+               <lg>
+                  <l>Although he ſlay me, yet in him,</l>
+                  <l>Repoſe my Truſt will I:</l>
+                  <l>But I before him will maintain,</l>
+                  <l>My Ways Sincerity.</l>
+                  <l>He alſo ſhall even he himſelf,</l>
+                  <l>Be my Salvation:</l>
+                  <l>For who's an Hypocrite, before</l>
+                  <l>His Face he ſhall not come.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 8. 10, 11, 12.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Behold God will not caſt away,</l>
+                  <l>A perfect Man, nor will:</l>
+                  <l>His help afford to any ſuch,</l>
+                  <l>Who doers are of ill.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Until with Laughing he ſhall pleaſe,</l>
+                  <l>Thy Mouth even for to fill:</l>
+                  <l>Yea with rejoycing alſo ſhall,</l>
+                  <l>Thy Lips repleniſh ſtill.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="37" facs="tcp:32065:27"/>
+                  <head>3.</head>
+                  <l>They that Thee hate, they ſhall be cloth'd,</l>
+                  <l>With ſhame, and come to nought:</l>
+                  <l>The dwelling place o'th' Wicked ſhall,</l>
+                  <l>Not be found though 'tis ſought.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 35. 14.</head>
+               <lg>
+                  <l>Although thou ſayeſt and doſt complain.</l>
+                  <l>That him thou ſhalt not ſee:</l>
+                  <l>Yet Judgment him before, therefore</l>
+                  <l>Thy Truſt in him let be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Godly not ſecure.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>THe thing is come to me which I,</l>
+               <l>Did greatly fear would be:</l>
+               <l>And that which I afraid was of,</l>
+               <l>That is come unto me.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Secure I was not, neither</l>
+               <l>Supinely did I reſt:</l>
+               <l>Nor quiet was I, trouble yet</l>
+               <l>Came to me when at beſt.</l>
+            </lg>
+            <pb n="36" facs="tcp:32065:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="37" facs="tcp:32065:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="subject">
+            <pb n="38" facs="tcp:32065:29"/>
+            <head>Concerning the Godly, their Integrity.</head>
+            <div type="section">
+               <head>Job 23. 10, 11, 12.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe way the Lord knows, that I take</l>
+                  <l>When he hath tried me:</l>
+                  <l>As Gold when it is tried, ſuch</l>
+                  <l>My coming forth ſhall be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>My Foot hath held his Steps, his way</l>
+                  <l>Have kept, declin'd not I:</l>
+                  <l>From the Commandment of his Lips,</l>
+                  <l>Neither gone back have I.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>More than my neceſſary Food,</l>
+                  <l>The Words eſteem'd have I:</l>
+                  <l>Which did proceed out of his Mouth,</l>
+                  <l>So much by me ſet by.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 27. 3, 4, 5, 6.</head>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>As God doth live, even all the while,</l>
+                  <l>That my Breath is in me:</l>
+                  <l>And in my Noſtrils, that of God,</l>
+                  <l>The Spirit bides in me.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>My Lips ſhall not ſpeak wickedneſs,</l>
+                  <l>Nor Tongue utter Deceit:</l>
+                  <l>Nor from me my Integrity,</l>
+                  <l>Till Death from me depart.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="39" facs="tcp:32065:29"/>
+                  <head>6.</head>
+                  <l>My Righteouſneſs I do hold faſt,</l>
+                  <l>And will not let it go:</l>
+                  <l>My Heart it ſhall not me Reproach,</l>
+                  <l>So long as live I do.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 31. 1, 2, 3, 4, 23.</head>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>I made a Covenant with mine Eye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>And why then think ſhould I:</l>
+                  <l>Upon a Maid, my Heart with Luſt,</l>
+                  <l>For to inflame thereby.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>For from above what Portion,</l>
+                  <l>Of God, is there ſaid I:</l>
+                  <l>And from on high what Heritage,</l>
+                  <l>Is ther o'th' Almighty.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Is not Deſtruction unto,</l>
+                  <l>The Wicked and alſo:</l>
+                  <l>A Puniſhment that's ſtrange to thoſe,</l>
+                  <l>Iniquity that do.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Doth not he ſee my ways, and all</l>
+                  <l>My goings ponder he:</l>
+                  <l>Yea even my Steps, yea all my Steps,</l>
+                  <l>By him they counted be.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Deſtruction from the great God,</l>
+                  <l>That did me Terrifie:</l>
+                  <l>And by reaſon of his Highneſs,</l>
+                  <l>Endure could not I<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 17. 8.</head>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Hold on his way the Righteous ſhall,</l>
+                  <l>And not turn back ſhall he:</l>
+                  <l>And he that hath clean Hands he ſhall,</l>
+                  <l>Stronger and ſtronger be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="40" facs="tcp:32065:30"/>
+            <head>Concerning the Hypocrite.</head>
+            <div type="section">
+               <head>Job 8. 11, 12, 13, 14, 15.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>CAnth' Ruſh without Mire grow up,</l>
+                  <l>Can without Water grow:</l>
+                  <l>The Flag whiles green, before cut down,</l>
+                  <l>They both ſoon wither do.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>So are the Paths, though flouriſhing,</l>
+                  <l>Of all that God forget:</l>
+                  <l>And the Hope of the Hypocrite,</l>
+                  <l>Shall periſh, who ſhall let?</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>His Hope ſhall be cut off, his truſt</l>
+                  <l>A Spiders Web ſhall be:</l>
+                  <l>Lean on his Houſe he ſhall, but ſtand</l>
+                  <l>It ſhan't, nor ſtedfaſt be.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 27. 8, 9, 10.</head>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>What is the Hope o'th' Hypo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rite,</l>
+                  <l>Though he hath gained, when:</l>
+                  <l>That God doth take away his Soul,</l>
+                  <l>Will God his Cry hear then?</l>
+                  <l>When trouble comes, himſelf will he,</l>
+                  <l>In th' Almighty delight:</l>
+                  <l>Will always he call upon God,</l>
+                  <l>Conſtantly and aright?</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="41" facs="tcp:32065:30"/>
+               <head>
+                  <hi>Job</hi> 36. 13, 14, 15.</head>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The Hypocrites in Heart, that are</l>
+                  <l>Void of true Piety:</l>
+                  <l>They heap up Wrath, and when God them</l>
+                  <l>Doth bind, they do not cry.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>They Die in Youth, Prime of their Days</l>
+                  <l>How often is it ſo:</l>
+                  <l>And when they Die, they Die even as,</l>
+                  <l>The worſt of Sinners do.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>But ſuch as Poor in Spirit are,</l>
+                  <l>In their Affliction:</l>
+                  <l>He doth deliver, and their Ear,</l>
+                  <l>Ope's in Oppreſſion.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Benefits of acquainting our ſelves with God, and when he gives Peace.</head>
+            <div type="section">
+               <head>Job 22. <hi>from ver. 22. to the end.</hi>
+               </head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>DO now acquaint thy ſelf with God,</l>
+                  <l>At Peace and with him be:</l>
+                  <l>Thereby good, yea all good, ſo far</l>
+                  <l>As good, ſhall come to thee.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Law which from his Mouth proceeds,</l>
+                  <l>Do thou receive I Pray:</l>
+                  <l>Alſo his Words within thy Heart,</l>
+                  <l>See that thou lay up there.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="42" facs="tcp:32065:31"/>
+                  <head>3.</head>
+                  <l>If toth' Almighty thou return,</l>
+                  <l>Then built up thou ſhalt be:</l>
+                  <l>And from thy Tabernacles far,</l>
+                  <l>Shall put Iniquity.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Then thou ſhalt lay up Gold as Duſt.</l>
+                  <l>And Gold of Ophir ſo:</l>
+                  <l>As Stones o'th' Brook, ſo far as ſhall</l>
+                  <l>Thy good conduce unto.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Yea the Almighty he ſhall be</l>
+                  <l>Thy Gold, and unto thee</l>
+                  <l>Defence, and then thy Silver that,</l>
+                  <l>Of Strength ſhall Silver be.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>For then thou ſhalt have thy delight,</l>
+                  <l>In the Almighty ſo:</l>
+                  <l>As that thou ſhalt then unto God,</l>
+                  <l>Thy Face lift up unto.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Thou ſhalt thy Pray'r make unto him,</l>
+                  <l>And hear thee, then ſhall he:</l>
+                  <l>And unto him the Vows thou madeſt,</l>
+                  <l>They ſhall performed be.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Thou ſhalt Decree a thing, and it</l>
+                  <l>Eſtabliſhed ſhall be:</l>
+                  <l>And then the Light in all thy Ways,</l>
+                  <l>Shall clearly ſhine on thee.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>When that Men are caſt down, then thou</l>
+                  <l>There's lifting up ſhalt ſay:</l>
+                  <l>And God the humble Perſon ſhalf,</l>
+                  <l>Save ſurely in that Day.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Yea being innocent thou ſhalt,</l>
+                  <l>Thy ſelf not only ſave:</l>
+                  <l>But being pure, others ſhall,</l>
+                  <l>By thee Deliverance have.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="29" facs="tcp:32065:31"/>
+               <head>
+                  <hi>Job 34. v.</hi> 29.</head>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>When that the Lord gives quietneſs,</l>
+                  <l>Who can make trouble then:</l>
+                  <l>And when that he doth hide his Face,</l>
+                  <l>Who can behold him then.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Whether that it be done againſt,</l>
+                  <l>Even a whole Nation:</l>
+                  <l>Or whether 'tis only againſt,</l>
+                  <l>A man, it is all one.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 12. 10.</head>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>In the Hand of the Lord's the Soul,</l>
+                  <l>Of every living thing:</l>
+                  <l>And in his Hand of all Mankind,</l>
+                  <l>The Breath and the Being.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>Reſt in the Grave.</head>
+            <div type="section">
+               <head>Job 3. 17, 18, 19.</head>
+               <lg>
+                  <l>INth' Grave from troubling wicked ceaſe,</l>
+                  <l>At Reſt the weary are:</l>
+                  <l>There Priſoners Reſt together, and</l>
+                  <l>Oppreſſors Voice don't hear.</l>
+                  <l>The ſmall and great are th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, for Death</l>
+                  <l>Seizes on all Degrees:</l>
+                  <l>And there who was a Servant here,</l>
+                  <l>Is from his Maſter free.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="44" facs="tcp:32065:32"/>
+            <head>The Miſery of the Wicked.</head>
+            <div type="section">
+               <head>Job 4. 8, 9.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THey that Iniquity do Plow,</l>
+                  <l>And Wickedneſs do Sow:</l>
+                  <l>They certainly ſhall reap the ſame,</l>
+                  <l>A juſt Reward thereto.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>They periſh by the blaſt of God,</l>
+                  <l>So them we periſh ſee:</l>
+                  <l>And of his Noſtrils by the Breath,</l>
+                  <l>They ſoon conſumed be.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Wrath it doth kill the fooliſh Man,</l>
+                  <l>Envy the ſilly one:</l>
+                  <l>Though he take root, yet curſed is</l>
+                  <l>His Habitation.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 11. 20.</head>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>The Eyes o'th' Wicked they ſhall fail,</l>
+                  <l>And not eſcape ſhall they:</l>
+                  <l>And as the giving up o'th' Ghoſt,</l>
+                  <l>Their Hope ſuch ſhall it be.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <pb n="45" facs="tcp:32065:32"/>
+               <head>
+                  <hi>Job</hi> 20. 4, 5, 6, 7, 8, 9. <hi>To the Tune</hi> 100. Pſalm.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>KNow we not this, and that of old,</l>
+                  <l>Since Man the Earth was plac'd upon:</l>
+                  <l>That ſhort the Wickeds Triumph is,</l>
+                  <l>His Joy a Moment, and ſoon gone.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Though his Excellency mounts up,</l>
+                  <l>And to the Heavens advanced be:</l>
+                  <l>And his Head reach unto the Clouds,</l>
+                  <l>In Glory and Proſperity.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Yet even like unto his own doing,</l>
+                  <l>For evermore periſh ſhall He:</l>
+                  <l>And they who have him ſeen ſhall ſay,</l>
+                  <l>Where is he to be found not he.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>He as a Dream ſhall flee away,</l>
+                  <l>And he no more here found ſhall be:</l>
+                  <l>Yea as a Viſion of the Night,</l>
+                  <l>Away ſo chaſed ſhall he be.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>The Eye alſo which did him ſee,</l>
+                  <l>That Eye no more here him ſhall ſee:</l>
+                  <l>Nor ſhall his Place here any more,</l>
+                  <l>Behold him, where he us'd to be.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Though Wickedneſs in's Mouth be ſweet,</l>
+                  <l>Under his Tongue, though hid it be:</l>
+                  <l>Though it he ſpares, and don't forſake,</l>
+                  <l>But ſtill within his Mouth keeps he.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="46" facs="tcp:32065:33"/>
+                  <head>7.</head>
+                  <l>Yet in his Bowels turned is,</l>
+                  <l>His Meat it is in him alſo:</l>
+                  <l>Even as the deadly Gall of Aſps,</l>
+                  <l>Even that which he would not forgo.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>In heighth of his Proſperity,</l>
+                  <l>And fulneſs of Sufficiency:</l>
+                  <l>He yet ſhall be in ſtraits, on him</l>
+                  <l>From th' Wicked ſhall come Miſery.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>When that he is about to fill,</l>
+                  <l>His Belly then ſhall God on him,</l>
+                  <l>Caſt of his Wrath the Fury ſore:</l>
+                  <l>And Rain while eating, on him ſtore.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>This and much more the Portion is,</l>
+                  <l>Of him a Wicked Man that is:</l>
+                  <l>And that from God, and th' Heritage,</l>
+                  <l>By him appointed it is this.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Miſery of the Wicked.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 18. 5, 6, 7, 8, 11, 12, 14, 16, 17, 18, 20, 21.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Wicked's Light ſhall be extinct,</l>
+                  <l>His Sparks to ſhine none long ſhall ſee:</l>
+                  <l>The Light in's Houſe it ſhall be dark,</l>
+                  <l>His Lamp with him put out ſhall be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>His Steps of Strength ſhall ſtraitned be,</l>
+                  <l>By his own Counſel fall ſhall he:</l>
+                  <l>By his own Feet into a Net,</l>
+                  <l>He's caſt, and on a Snare walks he.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="47" facs="tcp:32065:33"/>
+                  <head>3.</head>
+                  <l>Terrours on every ſide ſhall him,</l>
+                  <l>Affright to's Feet be driven ſhall he:</l>
+                  <l>His Strength for Hunger ſhall decay,</l>
+                  <l>At's ſide Ruine ſhall ready be.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Out of his Tabernacle ſhall,</l>
+                  <l>His Confidence rooted out be:</l>
+                  <l>And unto Death of Terrours King,</l>
+                  <l>With Terrours great be brought ſhall he.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>His Roots ſhall be dried up beneath,</l>
+                  <l>Above his Branch cut of ſhall he:</l>
+                  <l>His Memory quite periſh ſhall,</l>
+                  <l>No Name have in the Street ſhall he.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>From Light he into Darkneſs ſhall,</l>
+                  <l>Be driven, and chas'd out hence ſhall be:</l>
+                  <l>Who after him do come they ſhall,</l>
+                  <l>Aſtoniſh'd and affrighted be.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Surely ſuch of the Wicked are,</l>
+                  <l>The dwellings, and this is alſo:</l>
+                  <l>The Place of ſuch a one who ere,</l>
+                  <l>He is that God aright don't know.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 21. 17, 18.</head>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>How oft o'th' Wicked is put out,</l>
+                  <l>The Candle, yea alſo how oft</l>
+                  <l>Does their Deſtruction come on them,</l>
+                  <l>Yea and they are ſoon brought to nought.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>God in his Anger, Sorrows gives,</l>
+                  <l>Alſo as Stubble ſuch are they:</l>
+                  <l>Before the Wind, and as the Chaff,</l>
+                  <l>Which ſoon the Storm carries away.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="48" facs="tcp:32065:34"/>
+            <head>Some Caveats.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 36. 18, 19, 20.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>BEcauſe there's Wrath, beware leaſt He,</l>
+                  <l>By his ſtroak take away doth Thee:</l>
+                  <l>For then a Ranſom tho't be great,</l>
+                  <l>Can by no means deliver Thee.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Will he eſteem thy Riches, no</l>
+                  <l>Nor yet thy Gold eſteem will He:</l>
+                  <l>Nor yet of ſtrength the forces all,</l>
+                  <l>How great ſoever they may be.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Do not the Night of Death deſire,</l>
+                  <l>Raſhly, nor unadviſedly:</l>
+                  <l>When Multitudes are in their Place,</l>
+                  <l>Though ſetled, cut off ſuddenly.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Take heed and ſee to it, that thou,</l>
+                  <l>Do not regard Iniquity:</l>
+                  <l>But rather than Iniquity,</l>
+                  <l>Chuſe thou the greateſt Miſery.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="49" facs="tcp:32065:34"/>
+            <head>The Benefit of Repentance upon Gods chaſtening of Man.</head>
+            <div type="section">
+               <head>Job 33. 19, 22, 23, 24, 25, 26, 27, 28, 29, 30.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>WHen that Man chaſtned is with pain,</l>
+                  <l>And his Fleſh is conſum'd away:</l>
+                  <l>Yea and his Soul, to th' Grave draws near,</l>
+                  <l>And's Life to who deſtroyers are.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>If then there be a Meſſenger,</l>
+                  <l>With him, a choice Interpreter:</l>
+                  <l>To ſhew unto him what is right,</l>
+                  <l>And what is pleaſing in God's ſight.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Which is for to bewail his Sin,</l>
+                  <l>And humbly it confeſs, and ſo:</l>
+                  <l>As that he it forſakes alſo,</l>
+                  <l>And unto God for Mercy goes.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Then he is gracious unto him,</l>
+                  <l>And ſaith from th' Pit deliver him:</l>
+                  <l>That he to it do not go down,</l>
+                  <l>For that a Ranſom I have found.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Then he recover ſhall, and Pray</l>
+                  <l>To God, and he to him ſhall be:</l>
+                  <l>Propitious, and he is Face</l>
+                  <l>With Joy and Gladneſs then ſhall ſee.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="50" facs="tcp:32065:35"/>
+                  <head>6.</head>
+                  <l>He looketh upon Men, and if</l>
+                  <l>Any doth ſay, that ſinn'd hath he:</l>
+                  <l>And have perverted what was right,</l>
+                  <l>And it no ways did profit me.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>From going down into the Pit,</l>
+                  <l>His Soul deliver then will he:</l>
+                  <l>Yea and his Life ſhall with great Joy,</l>
+                  <l>The Light which is ſo pleaſant ſee.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Lo all theſe Things oft worketh God,</l>
+                  <l>With Man, his Soul from th' Pit to bring:</l>
+                  <l>That he inlightened may be,</l>
+                  <l>And that with th' Light of the Living.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 11. from <hi>v.</hi> 12. to the 20.</head>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>God knows vain Man, ſees wickedneſs</l>
+                  <l>And it conſider will not he?</l>
+                  <l>For vain Man would be wiſe, though Man</l>
+                  <l>Like a wild Aſſes Colt born be.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>If that thou do prepare thine Heart,</l>
+                  <l>And towards God ſtretch out thine Hand:</l>
+                  <l>Put far away Iniquity,</l>
+                  <l>And let it not ſtill dwell with Thee.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Then with an holy Confidence,</l>
+                  <l>Into his Preſence thou ſhalt come;</l>
+                  <l>And then eſtabliſh'd thou ſhalt be,</l>
+                  <l>Even in a ſafe Condition.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Then thou thy Miſery ſhalt forget,</l>
+                  <l>As Waters that do paſs away:</l>
+                  <l>And then ſhalt ſhine forth, and thine Age,</l>
+                  <l>Be clearer then is the Noon-day.</l>
+               </lg>
+               <lg n="13">
+                  <pb n="51" facs="tcp:32065:35"/>
+                  <head>13.</head>
+                  <l>And then thou ſhalt ſecure be,</l>
+                  <l>Becauſe in God thy Hope haſt thee:</l>
+                  <l>Yea then as dig'd about ſhalt be,</l>
+                  <l>And ſhalt thy reſt take in Safety.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Alſo thou ſhalt lie down, and then</l>
+                  <l>Afraid not any ſhall make thee:</l>
+                  <l>Yea, for thy favour and good will,</l>
+                  <l>Many to thee ſhall ſuiters be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Wicked's Proſperity, together with the Brevity and <g ref="char:V">Ʋ</g>ncertainty thereof.</head>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 9. 24.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Earth is given into the Hand,</l>
+                  <l>Of ſuch as Wicked are:</l>
+                  <l>And ſuch as are Ungodly have,</l>
+                  <l>Of it the greateſt ſhare.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 21. 7, 8, 9, 10, 11, 12, 13, 14, 15, 16.</head>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Wicked live, grow Old, and they</l>
+                  <l>In Power mighty be:</l>
+                  <l>Their Seed alſo eſtabliſh'd is,</l>
+                  <l>And that their Eyes do ſee.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Their Houſes they are ſafe from fear,</l>
+                  <l>God's Rods not them upon:</l>
+                  <l>Yea all about them proſper well,</l>
+                  <l>Miſcarry doth not one.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="52" facs="tcp:32065:36"/>
+                  <head>4.</head>
+                  <l>Their little ones like to a Flock,</l>
+                  <l>For number ſend forth they:</l>
+                  <l>Their Children Dance, and unto them,</l>
+                  <l>The choiceſt Muſicks Play.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>They ſpend their Days in Wealth, and who</l>
+                  <l>Live merrier Lives than they:</l>
+                  <l>And eaſie Deaths do Die for the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Like Lambs do Die Men ſay.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Therefore they ſay, to God from us</l>
+                  <l>Depart, a dreadful ſay:</l>
+                  <l>For we deſire not, not we,</l>
+                  <l>The Knowledge of thy Ways.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>What's the Almighty that we him,</l>
+                  <l>Should ſerve, and who is He:</l>
+                  <l>And what gain is it, we ſhould have</l>
+                  <l>If Pray to him do we?</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Yet lo their Goods not in their Hand,</l>
+                  <l>But in God's hand, and He:</l>
+                  <l>Their Houſes fills with Good therefore,</l>
+                  <l>Their Counſel's far from me.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Job</hi> 24. <hi>v.</hi> 23, 24, 25.</head>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Though it be given them for to be,</l>
+                  <l>In ſafety whereupon:</l>
+                  <l>They reſt and are ſecure, yet,</l>
+                  <l>Their Ways Gods Eyes are on.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>They are exalted, but it is</l>
+                  <l>But for a little while,</l>
+                  <l>They ſoon are gone, and are brought low,</l>
+                  <l>And hence away they go.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="53" facs="tcp:32065:36"/>
+                  <head>11.</head>
+                  <l>They taken are out of the way,</l>
+                  <l>Even ſo as others are:</l>
+                  <l>And are cut off, as are of Corn,</l>
+                  <l>Cut off the Tops o'th' Ears.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>And if that now it be not ſo,</l>
+                  <l>A Liar who'll make me:</l>
+                  <l>And make that which I now have ſaid,</l>
+                  <l>Of no worth for to be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Spouſes Deſcription of her Beloved.</head>
+            <div type="section">
+               <head>Cant. 1. 13, 14. Cant. 1. 3. Cant. 2. 1, 3.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>OF Myrrh like to a bundle is,</l>
+                  <l>My well belov'd to me:</l>
+                  <l>Betwixt my Breaſts even all the Night,</l>
+                  <l>His lodging Place ſhall be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Moſt ſweet and precious unto me,</l>
+                  <l>Is my Beloved one:</l>
+                  <l>Even as a Cluſter of Camphire,</l>
+                  <l>The pleaſant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt Places on.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>His Names as Oyntment poured forth,</l>
+                  <l>Becauſe of the ſweet ſmell:</l>
+                  <l>Of his good Oyntments, therefore do</l>
+                  <l>The Virgins love him well.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Of Roſes he the Roſe is chief,</l>
+                  <l>The Roſe of <hi>Sharon</hi>'s He:</l>
+                  <l>And He of Lilies is the choice,</l>
+                  <l>That in the Vallies be.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="54" facs="tcp:32065:37"/>
+                  <head>5.</head>
+                  <l>As th' Apple Tree among the Trees,</l>
+                  <l>That in the Wood do grow:</l>
+                  <l>Among the Sons, even all the Sons,</l>
+                  <l>My well-belov'd is ſo.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Under his Shadow I ſat down,</l>
+                  <l>With great delight alſo:</l>
+                  <l>His Fruit ſweet and delicious,</l>
+                  <l>My Pallate was unto.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>With flaggons ſtay me and ſupport,</l>
+                  <l>With Apples comfort me:</l>
+                  <l>For I am ready even to faint,</l>
+                  <l>So greats my Love to thee.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Toth' Banquetting-Houſe he me brought,</l>
+                  <l>Unto the Houſe of Wine:</l>
+                  <l>And there his Love was over me,</l>
+                  <l>As Banner and Enſign.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>My well belov'd is mine, and He.</l>
+                  <l>Both Hands emploies for me:</l>
+                  <l>His left Hand thats under my Head,</l>
+                  <l>His Right embraceth me.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>A Fountain even of Gardens is,</l>
+                  <l>My well beloved one:</l>
+                  <l>A Well of Living Waters, and</l>
+                  <l>As Streams from <hi>Lebanon.</hi>
+                  </l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>My-Love is White, and Ruddy, chief<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Of Ten Thouſand is he:</l>
+                  <l>His Head's as Gold moſt fine, his Cheeks,</l>
+                  <l>As Beds of Spices be.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>As Flowers ſweet, dropping ſweet Myrrh,</l>
+                  <l>His Lips as Lilies be:</l>
+                  <l>His Mouth's moſt ſweet, yea and he is,</l>
+                  <l>Wholly and all lovely.</l>
+               </lg>
+               <lg n="13">
+                  <pb n="55" facs="tcp:32065:37"/>
+                  <head>13.</head>
+                  <l>This is my well beloved one,</l>
+                  <l>And this he is my Friend:</l>
+                  <l>O Daughters of <hi>Jeruſalem,</hi>
+                  </l>
+                  <l>Whom I to you commend.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>The Spouſes ſweet reſolve.</head>
+            <div type="section">
+               <head>Chap. 4. 6.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>UNtil the Day do break, and that</l>
+                  <l>The Shadows, they away do flee:</l>
+                  <l>And darkneſſes diſperſed are,</l>
+                  <l>Which do at preſent cover me.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>I will unto the Mountains get,</l>
+                  <l>Of Myrrh, yea and unto the Hill:</l>
+                  <l>Of Frankinſence, I'll have recourſe,</l>
+                  <l>And there my ſelf ſolace I will.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>My well beloved, he is mine,</l>
+                  <l>His Life he hath laid down for me:</l>
+                  <l>And I am his to Love and ſerve,</l>
+                  <l>And Praiſe to him for ever be.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Worthy the Lamb is to receive,</l>
+                  <l>Due Honour, Power and Glory:</l>
+                  <l>For he was ſlain, and by his Blood,</l>
+                  <l>To God he hath redeem'd us by.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="56" facs="tcp:32065:38"/>
+            <head>The Requeſts of the Spouſe to her Beloved.</head>
+            <div type="section">
+               <head>
+                  <hi>Cant.</hi> 1. 2.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>LEt with the Kiſſes of his Mouth,</l>
+                  <l>My well-belov'd kiſs me:</l>
+                  <l>For I far better do than Wine,</l>
+                  <l>Thy Love eſteem to be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O draw thou me, and readily</l>
+                  <l>We will run after thee:</l>
+                  <l>The King into his Chamber hath,</l>
+                  <l>Brought and conducted me:</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>We will be glad, and great in thee,</l>
+                  <l>Shall our rejoicing be:</l>
+                  <l>Thy Love remember more than Wine,</l>
+                  <l>The upright they Love Thee.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Tell me, O thou whom my Soul loves,</l>
+                  <l>Where thou doſt feed, and where:</l>
+                  <l>At Noon thou mak'ſt thy Flocks to reſt,</l>
+                  <l>With heat when ſcorch'd they are.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>For why ſhould I be as is one,</l>
+                  <l>Who turns aſide unto:</l>
+                  <l>Th' Aſſemblies of falſe Teachers, who</l>
+                  <l>Corrupt true. Doctrine do.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>If thou know'ſt not, O thou who art,</l>
+                  <l>The faireſt of Women:</l>
+                  <l>Follow the Footſteps of the flock,</l>
+                  <l>Feed and abide there then.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="57" facs="tcp:32065:38"/>
+                  <head>7.</head>
+                  <l>O ſet me as a Seal upon,</l>
+                  <l>Thine Heart as a Seal on:</l>
+                  <l>Thine Arm, for Love is ſtrong as Death,</l>
+                  <l>And Zeals flame, quench can none.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Make haſt my well belov'd who art,</l>
+                  <l>The Spicy Mountains on:</l>
+                  <l>And be like to a Roe, or a</l>
+                  <l>Young Hart, O ſwiftly come.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>Gods exceeding and incomprehenſible Great<g ref="char:EOLhyphen"/>neſs and Majeſty.</head>
+            <div type="section">
+               <head>
+                  <hi>Out of</hi> Iſaiah 40. 12, 15, 16, 17, 22, 23, 28.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Waters in the hollow of</l>
+                  <l>His Hand, meaſur'd hath He:</l>
+                  <l>With ſpan Heaven meted out, Earth's Duſt</l>
+                  <l>Holds in a meaſure He.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Mountains He in Scales hath weigh'd,</l>
+                  <l>In Balances the Hills:</l>
+                  <l>He taketh up the Iſles even as</l>
+                  <l>A very little thing.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Behold even as a Buckets drop,</l>
+                  <l>The Nations are ſo:</l>
+                  <l>And as the Balances ſmall Duſt,</l>
+                  <l>Him they are counted to.</l>
+               </lg>
+               <lg n="4">
+                  <pb n="58" facs="tcp:32065:39"/>
+                  <head>4.</head>
+                  <l>And <hi>Lebanon</hi> though 'tis ſo full,</l>
+                  <l>Of Wood, it don't ſuffice</l>
+                  <l>To burn, nor are the Beaſts thereof,</l>
+                  <l>Enough for Sacrifice.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>All Nations before him are,</l>
+                  <l>As nothing and they be:</l>
+                  <l>As leſs than nothing, unto him</l>
+                  <l>Counted and Vanity.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>He ſits on th' Circle of the Earth,</l>
+                  <l>As Graſhoppers they be:</l>
+                  <l>Who dwell therein, Heavens ſtretcheth out,</l>
+                  <l>As Tents and Curtains He.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>The Princes, and the Potentates,</l>
+                  <l>To nothing bringeth He:</l>
+                  <l>The Judges alſo of the Earth,</l>
+                  <l>He makes as Vanity.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>To whom then will ye liken God,</l>
+                  <l>Or what likeneſs will ye:</l>
+                  <l>Compare to him, who is ſo great,</l>
+                  <l>And of ſuch Majeſty.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>And bleſſed be his glorious Name,</l>
+                  <l>His glorious Name always:</l>
+                  <l>Which is exalted far above,</l>
+                  <l>All Bleſſing and all Praiſe.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="59" facs="tcp:32065:39"/>
+            <head>The Myſtery of Godlineſs, to be Sung on Sacrament Days.</head>
+            <div type="section">
+               <head>1 Tim. 3. 16.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Myſtery of Godlineſs,</l>
+                  <l>Without Controverſie:</l>
+                  <l>Is great, God he was manifeſt,</l>
+                  <l>In our Humanity.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>And though he but as Man appear'd,</l>
+                  <l>And mean in the World's Eye,</l>
+                  <l>He juſtified yet as God,</l>
+                  <l>Was, by his Deity.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>In that he by the Power thereof,</l>
+                  <l>Himſelf rais'd from the Dead:</l>
+                  <l>And ſo from th' guilt of our Sins charg'd,</l>
+                  <l>On him, was acquitted.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>And he was of the Angels ſeen,</l>
+                  <l>With deep Inſpection:</l>
+                  <l>Yea of them was he ſeen, with heighth,</l>
+                  <l>Of Admiration.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>That he ſhould condeſcend ſo low,</l>
+                  <l>As on him for to take:</l>
+                  <l>Our Humane Nature, and be made</l>
+                  <l>Himſelf who all did make.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>And being ſo of Angels ſeen,</l>
+                  <l>Preached alſo was he:</l>
+                  <l>Yea to the <hi>Gentiles</hi> preach'd was he,</l>
+                  <l>And that's a Myſtery.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="60" facs="tcp:32065:40"/>
+                  <head>7.</head>
+                  <l>And being Preached in the World,</l>
+                  <l>Believed on was He:</l>
+                  <l>And into Glory up was he,</l>
+                  <l>Receiv'd triumphantly.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>We Captives were<g ref="char:punc">▪</g> yea under went,</l>
+                  <l>The worſt Captivity:</l>
+                  <l>Himſelf and Life a Ranſom he,</l>
+                  <l>Gave for our Liberty.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="hymm">
+            <head>An Hymn after the Sacrament.</head>
+            <div type="section">
+               <head>Revel. 1. 5.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>NOw unto him that loved us,</l>
+                  <l>To him that lov'd us ſo:</l>
+                  <l>As from our Sins, to waſh us in,</l>
+                  <l>His Blood, and make us to.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>God and his Father, Kings and Prieſts,</l>
+                  <l>To him aſcribed be:</l>
+                  <l>For ever and for evermore,</l>
+                  <l>Dominion and Glory.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Glory to God i'th' higheſt be,</l>
+                  <l>That Men on Earth have Peace:</l>
+                  <l>And for his great Good-will towards Men,</l>
+                  <l>Let Praiſes never ceaſe.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Ye Cherubims and Seraphims,</l>
+                  <l>Still Hallelujah Cry:</l>
+                  <l>Yea Hallelujahs ſtill again,</l>
+                  <l>Sound forth perpetually.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="61" facs="tcp:32065:40"/>
+                  <head>5.</head>
+                  <l>To him that ſits upon the Throne,</l>
+                  <l>And to the Lamb ſtill be:</l>
+                  <l>For ever, and for ever more,</l>
+                  <l>Praiſe Honour and Glory.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="hymm">
+            <head>Another Sacramental Hymn.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>FRom God the Father, and alſo,</l>
+               <l>From Jeſus Chriſt the Lord:</l>
+               <l>May Grace and Mercy be to us,</l>
+               <l>VVe wiſh with one accord.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>VVho did himſelf give for our Sins,</l>
+               <l>A Sacrifice to be:</l>
+               <l>That from this preſent evil VVorld,</l>
+               <l>Might be delivered we.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>According to the VVill of God,</l>
+               <l>Our Father, this did He:</l>
+               <l>To whom for ever Glory be,</l>
+               <l>Amen, Amen, ſay we.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>God his own Son, he did not ſpare</l>
+               <l>His only Son not He:</l>
+               <l>No not his well beloved Son,</l>
+               <l>A Sacrifice to be.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>That we might Live, him unto Death</l>
+               <l>For us give up did he:</l>
+               <l>Yea his whole VVrath, he pour'd on him,</l>
+               <l>Us from it for to Free.</l>
+            </lg>
+         </div>
+         <div type="hymm">
+            <pb n="62" facs="tcp:32065:41"/>
+            <head>Another Sacramental Hymn.</head>
+            <div type="section">
+               <head>John 3. 13, 14, 15, 16, 17.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>AS <hi>Moſes</hi> in the VVilderneſs,</l>
+                  <l>The Serpent lifted up on high:</l>
+                  <l>Ev'n ſo the Son of Man he muſt,</l>
+                  <l>Be lift up on the Croſs, and why?</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>That who ſo on him doth believe,</l>
+                  <l>And that whoſoever he be:</l>
+                  <l>He ſhould not periſh, but ſhould live;</l>
+                  <l>And that to all Eternity.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>For God ſo lov'd the VVorld to which,</l>
+                  <l>No Parallel can ever be:</l>
+                  <l>That his only begotten Son,</l>
+                  <l>To be a Sacrifice gave he:</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>For God not to condemn the VVorld,</l>
+                  <l>Did ſend into the VVorld his Son:</l>
+                  <l>But did him ſend that ſo the VVorld,</l>
+                  <l>Through him might have Salvation.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>VVhen that we were yet without Strength,</l>
+                  <l>In due Time Jeſus Chriſt did Die:</l>
+                  <l>VVhich was the Time God did appoint,</l>
+                  <l>And that even for the Ungodly:</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>For ſcarcely for a Righteous Man,</l>
+                  <l>VVill one be willing for to Die:</l>
+                  <l>Yet for a good Man ſome perhaps,</l>
+                  <l>To ſuffer Death may not deny.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="63" facs="tcp:32065:41"/>
+                  <head>7.</head>
+                  <l>But God commends his Love towards us,</l>
+                  <l>Yea ſo his Love commendeth He:</l>
+                  <l>That even whiles, yet Sinners we were,</l>
+                  <l>Chriſt died that ſo live might we.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Chriſt from the Curſe o'th' Law hath us,</l>
+                  <l>Redeemed, yea Redeem'd us ſo:</l>
+                  <l>That to be made a Curſe for us,</l>
+                  <l>He did himſelf ſubmit unto.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>And that for us a Curſe he was,</l>
+                  <l>Herein it doth appear to be:</l>
+                  <l>Becauſe it's written every one,</l>
+                  <l>Is Curs'd that hangeth on a Tree.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>That ſo the Bleſſing of <hi>Abraham,</hi>
+                  </l>
+                  <l>Thro' Chriſt, the <hi>Gentiles</hi> might come on:</l>
+                  <l>That we through Faith, the Promiſe of</l>
+                  <l>The Spirit might receive each one.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="hymm">
+            <head>An Hymn for the Spirit and Grace.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>US with thy loving Kindneſs Lord,</l>
+               <l>And with thy tender Mercies Crown:</l>
+               <l>And on us Lord be pleas'd thy Grace,</l>
+               <l>Abundantly for to pour down.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Like to a water'd Garden Lord,</l>
+               <l>Do thou our Souls make for to be:</l>
+               <l>Their Savour alſo like unto,</l>
+               <l>A Field that is bleſſed by thee.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Like Rain upon the Mowen Graſs,</l>
+               <l>Come down on us, yea and no leſs:</l>
+               <l>Than Sh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wers on the Earth that it</l>
+               <l>Do VVater, yea and much refreſh.</l>
+            </lg>
+            <lg n="4">
+               <pb n="64" facs="tcp:32065:42"/>
+               <head>4.</head>
+               <l>Be thou unto us as the Dew,</l>
+               <l>That like the Lilly grow may we:</l>
+               <l>And that even like to <hi>Lebanon</hi>
+               </l>
+               <l>Our Roots even ſo caſt forth may be.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>As thou haſt promis'd Lord do thou,</l>
+               <l>Pour Water on him that's thirſty:</l>
+               <l>Alſo no leſs, O Lord do thou,</l>
+               <l>Pour Floods upon the Ground that's dry.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Do thou thy Spirit pour on us,</l>
+               <l>And pour thou it on our Off-ſpring:</l>
+               <l>And both on us, and alſo them,</l>
+               <l>Do thou O Lord, pour thy Bleſſing.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>So Spring and Flouriſh then ſhall we,</l>
+               <l>As Graſs in Meadows green we ſee:</l>
+               <l>Yea, and as Willows, and ſuch Trees,</l>
+               <l>As by the Waters planted be.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>And bleſſed be thy glorious Name,</l>
+               <l>Yea bleſs'd for ever, let it be:</l>
+               <l>The whole Earth, let thy Glory fill,</l>
+               <l>Amen, Yea and Amen ſay we.</l>
+            </lg>
+            <div type="section">
+               <head>
+                  <hi>Numb.</hi> 6. 23, 24, 25, 26.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>OThou who art the bleſſed one,</l>
+                  <l>Be pleas'd to bleſs us ſo:</l>
+                  <l>As <hi>Aaron, Iſrael</hi> to bleſs,</l>
+                  <l>Thou didſt give Order to.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Lord us bleſs, and do us keep,</l>
+                  <l>This is our Suite to Thee:</l>
+                  <l>The Lord, his Face make ſhine on us,</l>
+                  <l>And gracious to us be.</l>
+               </lg>
+               <lg n="3">
+                  <pb n="65" facs="tcp:32065:42"/>
+                  <head>3.</head>
+                  <l>The Lord grant that his Countenance,</l>
+                  <l>On us lift up may be:</l>
+                  <l>And let alſo we pray thee Peace,</l>
+                  <l>Be given to us by thee.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Our Days the Lord Knows, and with what</l>
+                  <l>Here exercis'd are we:</l>
+                  <l>And as our Days are, ſo Lord pleaſe,</l>
+                  <l>To make our Strength to be.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <head>God's Majeſty and Severity againſt his Enemies.</head>
+            <div type="section">
+               <head>
+                  <hi>Na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um</hi> 1. 3, 5, 6, 7.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Lord is ſlow to Anger and,</l>
+                  <l>In Power alſo great is He:</l>
+                  <l>And not at all, the Wicked ſhall,</l>
+                  <l>By him whiles ſuch acquitted be.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>The Lord i'th' Whirlwind hath his way,</l>
+                  <l>And in the Storm, his way is there:</l>
+                  <l>Yea, and the Clouds ſo numerous,</l>
+                  <l>Even they the Duſt of his Feet are.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>The Mountains they do Quake at him,</l>
+                  <l>Yea, and the Hills they melt alſo:</l>
+                  <l>The Earth's burnt at his Preſence and,</l>
+                  <l>The World, and all that dwell there do.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Who is there that's able to ſtand,</l>
+                  <l>Before his Indignation:</l>
+                  <l>And in the fierceneſs of his Wrath,</l>
+                  <l>Who is there can abide not one.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="66" facs="tcp:32065:43"/>
+                  <head>5.</head>
+                  <l>His Fury ſo dreadful, is</l>
+                  <l>Like unto Fire poured out:</l>
+                  <l>And by him alſo are thrown down,</l>
+                  <l>The Rocks that are ſo ſtrong and ſtout.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>And yet the Lord is good, he Strength,</l>
+                  <l>Inth' Day of Trouble is, and thoſe:</l>
+                  <l>He knows, and hath reſpect unto,</l>
+                  <l>Who do on him their Truſt repoſe.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>Our great <g ref="char:V">Ʋ</g>nworthineſs.</head>
+               <lg>
+                  <l>WE do acknowledge Lord, to thee,</l>
+                  <l>Of all the Mercies we:</l>
+                  <l>And Truth which thou haſt ſhewn to us,</l>
+                  <l>VVe moſt unworthy be.</l>
+                  <l>Thy Mercies Lord, they many are,</l>
+                  <l>Both great, there are and ſmall:</l>
+                  <l>But we our ſelves, even we are leſs,</l>
+                  <l>Than the leaſt of them all.</l>
+                  <l>Lord cloath us with Humility,</l>
+                  <l>That Cloth becomes us well:</l>
+                  <l>VVho cloathed are with Sin in us,</l>
+                  <l>As Fleſh, dwells no good Thing.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="subject">
+            <pb n="67" facs="tcp:32065:43"/>
+            <head>God's wonderful Reſpect to the Contrite and Humble.</head>
+            <lg>
+               <l>THus ſaith the high and lofty one,</l>
+               <l>Inhabiting Eternity:</l>
+               <l>VVhoſe Name is great and glorious,</l>
+               <l>Moſt Reverend and Thrice Holy.</l>
+               <l>I<g ref="char:punc">▪</g> in the high and holy Place,</l>
+               <l>Do dwell, with him alſo dwell I:</l>
+               <l>That of a Contrite Spirit is,</l>
+               <l>And Cloathed with Humility.</l>
+               <l>And that with him I dwell, 'tis that</l>
+               <l>Revive the Spirit I may ſo:</l>
+               <l>Of him that's humble, and the Heart,</l>
+               <l>Of him that is Contrite alſo.</l>
+            </lg>
+         </div>
+         <div type="hymm">
+            <head>An Hymn upon the failing of Creature-Comforts.</head>
+            <lg>
+               <l>THeſe broken Ciſterns Lord they fail,</l>
+               <l>And Brooks dry up no leſs:</l>
+               <l>And therefore unto Thee, O Lord!</l>
+               <l>My Soul makes its Addreſs.</l>
+               <l>For thou of Living VVaters art,</l>
+               <l>The Fountain; and in Thee</l>
+               <l>VVhen Brooks and broken Ciſterns fail,</l>
+               <l>Our freſh Springs ſtill have we.</l>
+               <l>
+                  <pb n="68" facs="tcp:32065:44"/>
+When Beams are ſcatter'd in the Sun,</l>
+               <l>They fully made up be:</l>
+               <l>And Streams i'th' Fountain, when cut off</l>
+               <l>Yea all's made up in thee.</l>
+               <l>Thou art enough, even for thy Self,</l>
+               <l>Though Infinite thou be:</l>
+               <l>And how much more enough art for,</l>
+               <l>Such Finite ones as we.</l>
+            </lg>
+            <div type="section">
+               <head>
+                  <hi>Pſalm</hi> 1.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Man in wicked Men's advice,</l>
+                  <l>Who walks not, bleſt is thrice:</l>
+                  <l>Nor ſtandeth there, where Sinners are,</l>
+                  <l>Nor ſets i'th' ſcornful's Chair.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>But in the Law of God the Lord,</l>
+                  <l>Still is his great Delight:</l>
+                  <l>And in his Law doth meditate,</l>
+                  <l>And that both Day, and Night.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>And he ſhall be, like to a Tree,</l>
+                  <l>The Rivers planted by:</l>
+                  <l>That in his Seaſon, bringeth forth,</l>
+                  <l>His Fruit abundantly.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Yea, even his very Leaf alſo,</l>
+                  <l>Shall not ſo much as fade:</l>
+                  <l>And look whatſoever he doth,</l>
+                  <l>To proſper ſhall be made.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>As for ſuch as ungodly are,</l>
+                  <l>Lo they are nothing ſo:</l>
+                  <l>But which the Wind driveth away,</l>
+                  <l>The Ch<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> are like unto.</l>
+                  <l>
+                     <pb n="69" facs="tcp:32065:44"/>
+Therefore i'th' Judgment ſhall not ſtand,</l>
+                  <l>Such as ungodly be:</l>
+                  <l>Nor Sinner, of the Righteous,</l>
+                  <l>In the Society.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>For th' way of th' Righteous, the Lord</l>
+                  <l>Knows and approve doth he:</l>
+                  <l>But the way of Ungodly ones,</l>
+                  <l>Quite overthrown ſhall be.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>Petitions for obſerving God's Precepts.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THou haſt commanded us to keep,</l>
+                  <l>Thy Precepts carefully:</l>
+                  <l>O that my Ways directed were,</l>
+                  <l>So that them keep may I.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Do thou uphold my goings Lord,</l>
+                  <l>In thoſe Paths that are thine,</l>
+                  <l>That ſo my footſteps may not ſlip,</l>
+                  <l>Nor from thy ways decline.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>O with thy Servant do thou deal,</l>
+                  <l>So bountifully, Lord,</l>
+                  <l>That I may live, and living may,</l>
+                  <l>Obſerve and keep thy VVord.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>VVith my whole heart, I have thee ſought,</l>
+                  <l>And ſo do ſtill ſeek thee,</l>
+                  <l>O! for to wander from thy VVord,</l>
+                  <l>Do not thou ſuffer me.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Bleſſed art thou, O Lord, and we,</l>
+                  <l>Bleſs, and Praiſe give to thee,</l>
+                  <l>And do thou me, thy Statutes teach,</l>
+                  <l>And bleſt then ſhall I be.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="70" facs="tcp:32065:45"/>
+                  <head>6.</head>
+                  <l>In thy VVord let my Steps, O Lord,</l>
+                  <l>Be ordered by thee;</l>
+                  <l>And no Iniquity, let have,</l>
+                  <l>Dominion over me.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>This I do firmly purpoſe, that</l>
+                  <l>Thy Statutes keep will I,</l>
+                  <l>O do not thou, I pray thee, Lord,</l>
+                  <l>Forſake me utterly.</l>
+               </lg>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Pſalm</hi> 23.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>THe Lord's my Shepherd, I ſha'nt want,</l>
+                  <l>He maketh me down for to lie</l>
+                  <l>In Paſtures green, and he me leads</l>
+                  <l>The calm and quiet VVaters by.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>He doth reſtore my Soul, and he.</l>
+                  <l>For to return, my Soul doth make:</l>
+                  <l>He in the Path of Righteouſneſs</l>
+                  <l>Leads me, even for his own Names ſake.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Yea, tho' I walk thro th' Valley of</l>
+                  <l>Death's Shadow, I will fear none ill,</l>
+                  <l>For thou art with me, and thy Rod</l>
+                  <l>And Staff, they both me comfort ſtill.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>A Table thou prepar'ſt for me,</l>
+                  <l>And that mine Enemies before;</l>
+                  <l>Mine Head with Oil thou doſt anoint,</l>
+                  <l>Alſo my Cup it runneth o're.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Goodneſs and Mercy all my Days,</l>
+                  <l>They follow me ſhall ſurely;</l>
+                  <l>Yea, and in the Houſe of the Lord,</l>
+                  <l>For evermore ſtill dwell will I.</l>
+               </lg>
+               <lg n="6">
+                  <pb n="71" facs="tcp:32065:45"/>
+                  <head>6.</head>
+                  <l>And bleſſed be thy glorious Name,</l>
+                  <l>And that to all Eternity;</l>
+                  <l>The whole Earth let thy Glory fill,</l>
+                  <l>Amen, yea and Amen, ſay I.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="conclusion">
+            <head>The Concluſion.</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>OF the whole Matter, both the End</l>
+               <l>And the Concluſion let us hear,</l>
+               <l>'Tis God to fear, and him obey,</l>
+               <l>Man's <hi>whole,</hi> yea and his <hi>all</hi> lies there.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>For into Judgment every work,</l>
+               <l>And that with every ſecret thing,</l>
+               <l>Whether that it be good or bad,</l>
+               <l>God ſhall moſt certainly it bring.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Our Days to number let us be,</l>
+               <l>Therefore, O Lord, ſo taught by thee,</l>
+               <l>That unto ſaving Wiſdom then</l>
+               <l>Our Hearts with Care apply may we.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>The Lord, the God of Iſrael,</l>
+               <l>For evermore bleſſed be;</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>t Men and Angels ſay Amen,</l>
+               <l>Amen, yea, and Amen<g ref="char:punc">▪</g> ſay we.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32065:46" rendition="simple:additions"/>
+            <pb facs="tcp:32065:46" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
